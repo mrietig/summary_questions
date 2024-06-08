@@ -1,0 +1,616 @@
+gorgiasdomain,executionid,timestamp,summarize_question,automated
+psychobunny,bdbd193c-e461-4625-a3c5-7e7c43575001,2024-06-08T18:42:44.201999,"""Why did my order not arrive?""",false
+psychobunny,3536e8fc-cd9c-4f34-8c59-8c196a307979,2024-06-08T18:38:13.128000,"""How can I apply a welcome discount to my order after purchase?""",false
+psychobunny,3508e5df-bbd7-40f5-a52c-a483169c80a3,2024-06-08T18:28:23.335000,"""Can the store apply a missed 10% discount code to my recent order or do I have to cancel and reorder to use it?""",false
+psychobunny,000197ed-2ad5-45f3-93e7-5f914cb77706,2024-06-08T18:18:33.469000,"""What is the status of the missing and incorrectly sent items from my order?""",false
+psychobunny,9265a05e-595e-4ab2-864c-d81132a4fbe9,2024-06-08T18:01:21.464999,"""Why isn't the website accepting my UK postcode when I try to place an order?""",false
+psychobunny,85794354-050d-49d8-9e10-5b0af3d2921a,2024-06-08T18:01:19.549000,"""How should I proceed with returning the incorrect items that were sent due to a mix-up?""",true
+psychobunny,70f2541f-555c-4303-b3fb-5b9dd7e68ee0,2024-06-08T17:53:07.134999,"""Do you have any available coupons?""",false
+psychobunny,94f989de-f43e-48d0-a60f-ce369e732916,2024-06-08T17:44:50.546999,"""Can someone please check on the status of my order that was partially received?""",true
+psychobunny,1ee6d1c9-45c8-42e6-ab8a-64da4f8fec42,2024-06-08T17:44:43.075999,"""Why have I not received my complete order that was marked as shipped?""",true
+psychobunny,29caf4cd-e5e3-4400-95ad-5b9135a03bfb,2024-06-08T17:35:54.157000,"""What is the status of my undelivered item?""",false
+psychobunny,31e24d99-9fd8-47dd-8c70-4c07c8712b4f,2024-06-08T17:35:35.637000,"""What should I do if I've checked everywhere and still can't find the missing items from my order?""",true
+psychobunny,596357f2-0773-4c0b-9484-9f192a4631ac,2024-06-08T17:34:29.229000,"""Can I return an item if I received the wrong one and get the correct item sent to me?""",true
+psychobunny,b9eb9467-0b03-4a4f-80e7-fb58d71e5337,2024-06-08T17:17:57.167000,"""Can I receive credit for a different size of a shirt I bought which is too large?""",false
+psychobunny,93e3b27e-838c-456c-a414-32ec4307a9aa,2024-06-08T16:59:04.055999,"""How can I cancel my order?""",false
+psychobunny,63ef0cc7-702d-4283-bea7-04ef161b8a85,2024-06-08T16:43:23.305000,"""Why have I not received two items from my order?""",false
+psychobunny,13fc8f94-e988-456f-957a-658bd9b8eed3,2024-06-08T16:30:55.953000,"""Why am I missing items from my order?""",true
+psychobunny,68174aea-9a73-4065-b696-aa97f26778ce,2024-06-08T16:29:53.614000,"""Why was only a partial refund processed for a return instead of the full amount?""",false
+psychobunny,68174aea-9a73-4065-b696-aa97f26778ce,2024-06-08T16:29:53.614000,"""How can I get a refund if my credit card transaction didn't go through?""",false
+psychobunny,2142d0c5-77d2-4ff4-b284-fd4f22d1bcbc,2024-06-08T16:18:09.746999,"""Why haven't I received my order yet?""",false
+psychobunny,a30dc74c-de13-4d70-9313-ec576a11ef44,2024-06-08T16:14:09.835000,"""How do I update my shipping address for an order I just placed?""",false
+psychobunny,699a1aaf-d8b5-40c7-b7a7-db152c0e529c,2024-06-08T16:10:24.365999,"""Why haven't I received my refund of 9 dollars yet?""",false
+psychobunny,a0183ccf-fcc2-41bb-8789-e8c50e379ea2,2024-06-08T16:08:35.134999,"""Why does my package show delivered when I did not receive it?""",true
+psychobunny,41765b43-d3d4-4269-bc99-d191484c21c9,2024-06-08T15:58:48.121999,"""Where is my package?""",true
+psychobunny,ff6af666-af42-481b-8795-c5fb0f866a77,2024-06-08T15:19:13.566999,"""Why was my order cancelled for the second time?""",false
+psychobunny,9f733bdc-ee26-43cf-9a62-dbcf45ccef13,2024-06-08T14:24:08.928999,"""What is the status of my claim related to my order?""",true
+psychobunny,a4d9e36a-2078-456f-b9d0-a25d52518902,2024-06-08T13:46:22.361000,"""How can I track my shipment without spending hours on hold?""",true
+psychobunny,a4d9e36a-2078-456f-b9d0-a25d52518902,2024-06-08T13:46:22.361000,"""What is the updated shipping status of my order?""",true
+psychobunny,1e0d8c22-eb89-4292-b7b9-e291f1655052,2024-06-08T13:44:27.556999,"""Why have I only received one shirt from my order when I purchased four?""",true
+psychobunny,1e0d8c22-eb89-4292-b7b9-e291f1655052,2024-06-08T13:44:27.556999,"""Where is the rest of my order after only receiving one shirt?""",true
+psychobunny,bd952a93-4e5b-4ac2-8d3e-3eb6ff4441cb,2024-06-08T13:39:00.937999,"""Why is there no record of my item in the tracking system?""",false
+psychobunny,bd952a93-4e5b-4ac2-8d3e-3eb6ff4441cb,2024-06-08T13:39:00.937999,"""Can you provide the expected delivery date for my item by FedEx?""",false
+psychobunny,f9813f66-3f69-45fa-ac46-9c9a88618507,2024-06-08T13:15:07.490999,"""Will the missing item from my recent order be shipped separately?""",false
+psychobunny,4bf063e2-8707-41ab-a457-b75a98836429,2024-06-08T13:03:56.716000,"""Was the promotional item included in my order that qualified for it?""",false
+psychobunny,8b1e1552-96d4-4f77-8c43-9dad59d8f958,2024-06-08T13:03:28.157999,"""How do I return an item from my order?""",true
+psychobunny,c3f2ea38-ee93-421c-8994-31799427f050,2024-06-08T13:02:45.986000,"""How can I return an item I purchased online?""",true
+psychobunny,1ae56ea6-637c-414a-907d-7b4e973844c5,2024-06-08T13:02:44.349999,"""How can I return an item from my recent order?""",true
+psychobunny,495dbc80-9754-4efc-8354-afe88c54894b,2024-06-08T13:02:29.684999,"""How do I return a pair of board shorts from my order?""",true
+psychobunny,d0509890-be30-4803-b1c3-448856a2786f,2024-06-08T13:02:21.766000,"""How can I return a pair of board shorts I ordered?""",true
+psychobunny,3b68fe61-c6ff-4ddb-8798-d4feff643908,2024-06-08T12:30:46.582999,"""Were the golf balls included in my recent order?""",true
+psychobunny,98a41cbc-15ae-41ec-b184-cad4453c826b,2024-06-08T11:21:18.813999,"""When will my order be shipped to ensure it arrives before the specified date?""",false
+psychobunny,5a9808f5-1678-48af-b634-b83f5a521a03,2024-06-08T11:15:09.780999,"""Can my order be expedited to arrive by this weekend?""",false
+psychobunny,94279a99-4371-4c69-b4c4-8431806f83cc,2024-06-08T10:50:35.559000,"""Is there an issue with my order's delivery time?""",false
+psychobunny,8b9a39f8-b482-43d6-8270-0faa631716f8,2024-06-08T09:08:49.871000,"""Did I receive a refund after canceling my order?""",true
+psychobunny,c7c453b0-4e0e-4bd0-a845-2b92f58518c6,2024-06-08T08:51:43.023999,"""How can I cancel my order?""",false
+psychobunny,e573491c-2378-40a2-b5df-09b3d2da616a,2024-06-08T07:50:38.303999,"""How can I resolve an issue with a package marked as delivered but not received?""",false
+psychobunny,e573491c-2378-40a2-b5df-09b3d2da616a,2024-06-08T07:50:38.303999,"""What steps should I take if the postal carrier has potentially delivered my package to the wrong address?""",false
+psychobunny,13a5b95d-5be9-4dcf-b182-9276c4d0f956,2024-06-08T07:29:07.230999,"""Why was my order not completely delivered?""",true
+psychobunny,86fb536b-9745-41fb-b41a-2ac85712444d,2024-06-08T07:28:19.936000,"""Why was my order not completely delivered?""",false
+psychobunny,75f84dce-0f98-44be-b04c-eaa9231a8734,2024-06-08T05:24:09.825999,"""¿Por qué mi pedido preparado para pago ya no está disponible?""",true
+psychobunny,75f84dce-0f98-44be-b04c-eaa9231a8734,2024-06-08T05:24:09.825999,"""¿Puede ayudarme a recuperar mi pedido que ya no aparece en el sistema?""",true
+psychobunny,75f84dce-0f98-44be-b04c-eaa9231a8734,2024-06-08T05:24:09.825999,"""¿Cómo puedo asegurarme de que mi pedido de $169 por 3 prendas esté listo para pago?""",true
+psychobunny,42168801-18b6-4afe-a38e-d74684b79861,2024-06-08T05:24:04.529000,"""How can I cancel and refund an accidental purchase?""",false
+psychobunny,147d504b-3ef4-42fc-b672-b64d4dd245e0,2024-06-08T05:22:48.111999,"""Why is my ready-to-pay order from yesterday no longer available and can you assist me?""",true
+psychobunny,a5814e05-ce78-4269-977e-73581739bd4a,2024-06-08T05:21:43.365999,"""How can I cancel an accidental purchase?""",false
+psychobunny,450a1e33-3b17-45d5-81ef-76db1c561c86,2024-06-08T05:14:34.213999,"""Can you provide the tracking number for my order?""",true
+psychobunny,64f719ea-568e-4f29-a425-fdb82ddbb0a1,2024-06-08T04:13:21.046999,"""How do I return a pair of pants if I cannot log into the website with my password and no reset email is received?""",true
+psychobunny,64f719ea-568e-4f29-a425-fdb82ddbb0a1,2024-06-08T04:13:21.046999,"""What should I do if the guest checkout option does not recognize my order code for a return?""",true
+psychobunny,e0227866-bbc6-4ff6-87e4-5f0b58ebd99a,2024-06-08T03:58:24.967000,"""Why is my card from Shopify not working?""",false
+psychobunny,11cd1569-3760-4331-864f-7bf924717b1f,2024-06-08T03:47:12.591000,"""How can I return an item that didn't fit?""",true
+psychobunny,7626ec8b-2d70-4648-810c-5480b0792ce2,2024-06-08T03:41:39.543999,"""How can I get a discount on my purchase?""",false
+psychobunny,ccfd3bd4-b2aa-4e0b-9d81-58fbee68139e,2024-06-08T03:30:07.746000,"""Can you call me as soon as possible regarding my order?""",true
+psychobunny,df831aa3-fec5-46b1-bc62-aabfdc48ecfa,2024-06-08T03:28:18.479000,"""Why can't I process my return online even though I followed the provided instructions?""",false
+psychobunny,f2223bee-e879-4d30-b5e2-30463619b78e,2024-06-08T03:24:22.867000,"""Why does the system not recognize my order number when I attempt to process a return?""",true
+psychobunny,96389362-3e30-4595-bea6-280849e2fde9,2024-06-08T03:24:21.677999,"""Why does it show 'order number id not found' when I attempt to process a return online?""",false
+psychobunny,8271c1f4-0f8b-4450-b2fc-f64b9e111e3d,2024-06-08T03:13:22.392999,"""Why hasn't my order for a sweater been delivered after 3 business days?""",false
+psychobunny,07972c43-5cd5-4048-9b44-37ad5101a408,2024-06-08T03:13:19.187000,"""Why has my ordered sweater from Psycho Bunny not been delivered within the stated time frame?""",true
+psychobunny,48c429b2-d2a7-4e5c-95e9-ddec615e7b22,2024-06-08T03:13:16.913000,"""Why hasn't my order arrived even after three business days?""",true
+psychobunny,d73968c7-0515-4268-9899-19faef3de46f,2024-06-08T03:04:22.665999,"""What should I do if I did not receive an order that was marked as delivered?""",true
+psychobunny,dc71e02c-d656-4e45-a2fb-c9460aad9d85,2024-06-08T02:57:30.638999,"""What is the status of the missing shirt from my order placed with after pay?""",true
+psychobunny,ff978f69-fe77-45ed-bff4-8ca201cb5df7,2024-06-08T02:55:50.431999,"""Why did my order only include the shorts when I expected a cap as well?""",true
+psychobunny,a94f0874-378e-49c2-bed2-16a328cbd768,2024-06-08T02:50:34.332000,"""Why is the ordering form not accepting my address?""",false
+psychobunny,b22d30a1-19b5-4159-b73b-6f2c7e859cd5,2024-06-08T02:39:40.483000,"""What should I do if I haven't received all the items from my order?""",true
+psychobunny,0828d58f-c6d1-4ed0-89d1-1dcf6f54e9f1,2024-06-08T02:33:27.944000,"""How can I return a product online if the system is not allowing me?""",true
+psychobunny,aa2ada3e-d792-495f-9a7b-e31794140573,2024-06-08T02:32:55.923000,"""Why was I asked to rate the service when my issue is unresolved?""",true
+psychobunny,3145ab49-b203-43a4-b503-1d6f2ed18104,2024-06-08T02:23:58.556999,"""How can I update the shipping address for my order?""",false
+psychobunny,38c6bc16-41fe-4197-ac2f-6d5bf7307dec,2024-06-08T02:11:32.502000,"""Can you help me find out where my package was delivered since it was not at my home?""",true
+psychobunny,2fb18a25-9640-44ea-bf56-03d7e81ed00a,2024-06-08T02:07:07.023000,"""Why haven't I received all my shirts? I am missing two.""",false
+psychobunny,eae9d60e-0e53-4102-bfbe-3ad90ef6d327,2024-06-08T01:54:34.832999,"""How do I return an item that doesn't fit when the system says order not found?""",false
+psychobunny,4559c49e-60fd-40ec-acda-be4af45ef1af,2024-06-08T01:52:46.766999,"""How can I change my delivery option from standard to express?""",true
+psychobunny,a4aa77f4-03e4-4980-8dae-e855633c1e09,2024-06-08T01:46:41.286000,"""Can you redirect my package to my new address?""",true
+psychobunny,9b001ddd-52b4-4bd1-862c-aeeb0cd6d093,2024-06-08T01:46:38.295000,"""Can you please update the shipping address for my recent order?""",true
+psychobunny,45e4bd90-2b37-4e5c-a5ec-c31a5d859249,2024-06-08T01:40:05.542000,"""Can I change the color of an item in my order to a different shade of green after placing the order?""",false
+psychobunny,14829c00-4449-48c7-9b65-9bf0129faa9a,2024-06-08T01:38:09.857000,"""How can I return items if the system cannot find me?""",true
+psychobunny,b0933826-fcc9-4b11-b93c-6c8cacdf3c9d,2024-06-08T01:34:50.786000,"""Is my second shirt from the order shipped separately and what is its tracking number?""",true
+psychobunny,fe078f08-f1b1-4eb5-9eba-9e22e26af2ce,2024-06-08T01:32:27.928999,"""Why is the product quality so poor after the first use?""",true
+psychobunny,9cb6d197-0655-4ba1-bb4f-55d9b1526ac7,2024-06-08T01:29:45.186000,"""What should I do if my order was marked as delivered but I haven't received it?""",true
+psychobunny,861ee0d5-7ba2-494a-8fab-6a8de17923b0,2024-06-08T01:28:42.375000,"""Why haven't I received my package as indicated by the delivery notification?""",true
+psychobunny,d0c36c55-8fea-4647-acd3-0b816cac8011,2024-06-08T01:19:10.213999,"""Why was I charged for golf balls that were advertised as no charge on the website?""",false
+psychobunny,0f7256e7-441f-44f8-b898-16f78a7b6471,2024-06-08T01:15:39.375000,"""What is the procedure for updating a shipping address for an order?""",true
+psychobunny,b5751a73-f674-4606-aee8-30154d85a320,2024-06-08T01:15:02.029000,"""Why is my order still incomplete and when can I expect a refund for the unshipped items?""",false
+psychobunny,5df61294-118f-45a6-a188-851add32b473,2024-06-08T00:36:17.388999,"""Why haven't I received a tracking number for my order?""",true
+psychobunny,e4c0f299-f19f-4633-ad0f-43ae8c059bb9,2024-06-08T00:10:26.055000,"""Why am I missing items from my order?""",true
+psychobunny,7de4586d-48c5-44eb-8dee-2de67abd3ff6,2024-06-08T00:06:14.473999,"""Can someone call me today regarding my order?""",true
+psychobunny,0b06642d-6dbd-4990-855f-da9682b3e209,2024-06-08T00:05:20.332000,"""When will my package be delivered?""",true
+psychobunny,0b06642d-6dbd-4990-855f-da9682b3e209,2024-06-08T00:05:20.332000,"""Why is there a discrepancy in the delivery dates for my two packages?""",true
+psychobunny,0b06642d-6dbd-4990-855f-da9682b3e209,2024-06-08T00:05:20.332000,"""Where is my package currently located?""",true
+psychobunny,d12f5233-07ab-4f4f-9b06-b5ce59ee4d3e,2024-06-08T00:03:06.303999,"""Can someone call me to discuss my order?""",true
+psychobunny,4ced53e8-f4cf-4ba8-a58f-82ed6cdc6caa,2024-06-07T23:51:55.687000,"""What should I do if the package status shows delivered but I have not received it?""",true
+psychobunny,4ced53e8-f4cf-4ba8-a58f-82ed6cdc6caa,2024-06-07T23:51:55.687000,"""How can I resolve the issue of a missing package that shows as delivered on tracking?""",true
+psychobunny,0b447664-cd97-4e38-a840-4c8c4a681b3f,2024-06-07T23:48:33.164999,"""Why haven't I received my package yet?""",true
+psychobunny,1aa44ab4-b5a9-4013-bdd6-3ee78476a1f1,2024-06-07T23:39:59.243999,"""Was my black tee shipped separately from my other items as it was not included in the package I received?""",true
+psychobunny,8e517d6b-1686-431a-b46f-696760a5645b,2024-06-07T23:39:44.589999,"""Why was I charged for an item I thought was free and want to be removed from my order?""",false
+psychobunny,406ee277-b005-4a9c-ba19-5a89cd4fff35,2024-06-07T23:31:56.101000,"""Why was my order cancelled for the second time and what can I do to successfully place it?""",false
+psychobunny,15c8db8d-89dc-404d-8ac9-2448b765160f,2024-06-07T23:17:48.727999,"""Where is my order?""",true
+psychobunny,80e6c4e5-b1c9-40c9-81d3-4b6d4cf7d2e1,2024-06-07T23:16:34.746999,"""Why have I not received the T-shirts from my order when the status shows as fulfilled?""",false
+psychobunny,b342ee79-a585-4a11-8c7d-dd2b961ae471,2024-06-07T22:54:56.878999,"""How can I update the billing address for my order?""",true
+psychobunny,bbc87ed3-4826-4d3c-8b75-98e1ed45cb66,2024-06-07T22:47:32.976999,"""How can I exchange an item for a size 3XL?""",true
+psychobunny,f5143133-11ac-40d3-8a49-b77868a309a1,2024-06-07T22:46:24.480999,"""Is my order going to be delivered?""",true
+psychobunny,c5823f9b-c258-4074-810c-7a65722356d7,2024-06-07T22:44:04.645999,"""What are the operating hours for telephone customer service?""",false
+psychobunny,754b88bd-78da-4e68-aeb7-84889c221246,2024-06-07T22:26:53.068000,"""Can I exchange items for a larger size?""",true
+psychobunny,dc2e5879-14b9-450a-ab06-f3dc4f67d603,2024-06-07T22:04:19.947999,"""Why are items missing from my order?""",true
+psychobunny,e925eb32-fe88-4099-ba0b-48b66f83bbe7,2024-06-07T21:51:16.924000,"""How do I process a return for a product that doesn't fit?""",true
+psychobunny,1286b12d-7195-4fe8-a8d4-83e93d3e00db,2024-06-07T21:47:18.250000,"""Why has no one responded to my calls and email, and how can I speak to an agent?""",true
+psychobunny,c2a770db-9400-46fb-a944-39a167ab3b5d,2024-06-07T21:46:23.243999,"""Why can't I see the tracking for my order?""",true
+psychobunny,bdbaf7b7-96c5-4f0e-b47b-7247225bf07d,2024-06-07T21:26:15.325000,"""Why are the three shirts I was expecting in my order missing even after customer service confirmed their delivery?""",false
+psychobunny,bdbaf7b7-96c5-4f0e-b47b-7247225bf07d,2024-06-07T21:26:15.325000,"""Can you track the shipment with the provided tracking number to determine the status of the missing shirts?""",false
+psychobunny,53fa7c3e-91fa-429a-9a61-828afd2ae0f3,2024-06-07T21:08:21.898000,"""What is the store's policy for exchanging an item that is too small?""",false
+psychobunny,53fa7c3e-91fa-429a-9a61-828afd2ae0f3,2024-06-07T21:08:21.898000,"""Is it possible to get a refund for a product if there are no larger sizes available?""",false
+psychobunny,53fa7c3e-91fa-429a-9a61-828afd2ae0f3,2024-06-07T21:08:21.898000,"""How can I process an exchange or return for a product that doesn't fit?""",false
+psychobunny,0ccc5d1e-33ac-4f50-8e63-6e7b79163a0d,2024-06-07T20:35:00.160000,"""Need assistance in Spanish""",true
+psychobunny,0ccc5d1e-33ac-4f50-8e63-6e7b79163a0d,2024-06-07T20:35:00.160000,"""Can Customer Service provide support in Spanish?""",true
+psychobunny,baa65dd7-b554-4c19-a093-bbac67548947,2024-06-07T20:34:37.150000,"""¿Cómo puedo recibir asistencia en español respecto a mi pedido de Psycho Bunny que ha sido enviado?""",true
+psychobunny,0d95832d-46c9-4d05-b6f9-5a24b31eca16,2024-06-07T20:24:55.375999,"""How do I return items that don't fit and are duplicates of what my son already has?""",true
+psychobunny,4112875d-a8fa-45f5-b696-976874541685,2024-06-07T20:24:18.177999,"""Was my order sent separately since I only received one of the two items?""",true
+psychobunny,4112875d-a8fa-45f5-b696-976874541685,2024-06-07T20:24:18.177999,"""What should I do if part of my order is missing?""",true
+psychobunny,4112875d-a8fa-45f5-b696-976874541685,2024-06-07T20:24:18.177999,"""Will the missing item from my order be shipped separately or is there an error?""",true
+psychobunny,2666209b-a6c6-4780-8ddb-002d15b684e7,2024-06-07T20:13:50.398999,"""Why have the three shirts I was missing from my order not been included in the package I received?""",true
+psychobunny,2666209b-a6c6-4780-8ddb-002d15b684e7,2024-06-07T20:13:50.398999,"""What can be done to resolve the issue of the missing shirts from my order?""",true
+psychobunny,b3067de5-a22a-4cb4-b3d8-1a0ac7cb9d03,2024-06-07T20:06:57.387000,"""Did I include the PO BOX number in my shipping address for my order?""",false
+psychobunny,69d1fb6c-6121-48e8-a811-6eebbbbb9f75,2024-06-07T20:05:33.815999,"""How do I change my shipping address after placing an order using Apple Pay?""",false
+psychobunny,b9ef2b54-2ad1-4f92-a1e5-d2f6b442dae7,2024-06-07T20:03:21.607000,"""What should I do if my order shows as delivered but I didn't receive it?""",true
+psychobunny,e50a9c6a-b115-4b03-85e6-4aa17880795a,2024-06-07T19:59:26.641000,"""Why has part of my order not arrived, such as the 2 polos and shorts?""",true
+psychobunny,d7038f14-8087-42d9-8356-6580cbafaafd,2024-06-07T19:39:45.233000,"""Why was only one shirt delivered when my order included multiple items?""",true
+psychobunny,1b7b2740-296f-49ba-8d6b-2c0364dcd8bc,2024-06-07T19:32:19.966000,"""I have not received my package and would like a refund.""",false
+psychobunny,22d0a6a7-6015-4d9a-a277-358d0020d0f2,2024-06-07T19:20:47.884999,"""What can I do if an item is missing from my order?""",true
+psychobunny,22d0a6a7-6015-4d9a-a277-358d0020d0f2,2024-06-07T19:20:47.884999,"""Can the missing item be sent to me again?""",true
+psychobunny,8aa958f0-a543-44ec-882f-4e32715ca818,2024-06-07T19:14:01.380000,"""How do I return items if the online return portal is unavailable?""",false
+psychobunny,1f060f67-8038-48e1-b788-5eede5f1dbcb,2024-06-07T19:09:11.706000,"""How can I return the shirts that don't fit?""",true
+psychobunny,3fa50f5d-593a-4fec-8556-5038521071b5,2024-06-07T19:08:45.375999,"""What is the status of the other two polo shirts from my order?""",true
+psychobunny,583384c6-2f56-4b86-b29f-8a4cc53d270a,2024-06-07T19:06:07.203000,"""Can I change the delivery location for my shirt as I entered the wrong address?""",false
+psychobunny,79074616-f704-4489-923f-a77f2f2f0296,2024-06-07T19:06:01.700000,"""Can I change the delivery location of my order due to an incorrect address?""",false
+psychobunny,4a70adee-4b51-4c9d-8ecf-be3e1908ee23,2024-06-07T19:04:46.023999,"""Can my order be delivered today, or can it be canceled and the express fee refunded?""",false
+psychobunny,a2b528e0-4455-4901-9931-8de324eb497a,2024-06-07T19:03:01.987999,"""Can you provide an update on the rest of my order?""",false
+psychobunny,a2b528e0-4455-4901-9931-8de324eb497a,2024-06-07T19:03:01.987999,"""Why have I only received partial shipment of my order?""",false
+psychobunny,a2b528e0-4455-4901-9931-8de324eb497a,2024-06-07T19:03:01.987999,"""When will the remaining items in my order be delivered?""",false
+psychobunny,a2b528e0-4455-4901-9931-8de324eb497a,2024-06-07T19:03:01.987999,"""Can you expedite the delivery of my missing items?""",false
+psychobunny,39e9f194-f79a-4e1f-bcff-f018c5582b3c,2024-06-07T18:55:11.381000,"""How do I return an incorrectly shipped item and receive the correct one I ordered?""",false
+psychobunny,524b76ce-df6f-4879-9282-899597d7ceaf,2024-06-07T18:52:08.319000,"""Why have I not received my full order?""",true
+psychobunny,524b76ce-df6f-4879-9282-899597d7ceaf,2024-06-07T18:52:08.319000,"""What happened to the items that are missing from my order?""",true
+psychobunny,a9edb2be-ce45-4a05-9692-3226babe5aa4,2024-06-07T18:50:52.664000,"""Why is my order incomplete?""",true
+psychobunny,76d8f5d3-2bb6-49eb-b62f-fe98e436cdff,2024-06-07T18:50:24.401999,"""How can I exchange an item for a different size because it is too small?""",true
+psychobunny,a90ab6b3-1a59-467f-9c7c-07a7a7e302f7,2024-06-07T18:27:20.316999,"""Why hasn't my order arrived yet?""",true
+psychobunny,0351bf8d-c442-447b-bb58-b635fa1c9070,2024-06-07T18:25:39.750999,"""Why is the UPS tracking status unchanged, and why has the order not been received?""",true
+psychobunny,a9352ae1-8946-46d0-b05f-50462439b9be,2024-06-07T18:16:47.755000,"""What is the status of my order?""",true
+psychobunny,6801bffb-305e-414b-8187-09f586a371ae,2024-06-07T18:13:55.996999,"""What information can you provide about my recent order?""",true
+psychobunny,e749640d-ea2a-410c-99e2-0e1f77708749,2024-06-07T18:11:04.838999,"""How do I cancel my reorder and get a refund instead?""",false
+psychobunny,b5a57290-3b1c-44f5-97d1-b2fefa74195d,2024-06-07T18:04:10.868000,"""How can I cancel an order that I mistakenly placed?""",false
+psychobunny,44e70405-4c8b-47e2-b2ff-5b635ef742c5,2024-06-07T17:45:33.111999,"""How can I initiate a return for a product I purchased?""",true
+psychobunny,f34a971b-9e68-4f39-803e-33e06d3389f1,2024-06-07T17:44:12.526000,"""Does my order include a gift bag with the store's logo?""",true
+psychobunny,8b47dc88-fa7b-4b33-bb87-d56378096404,2024-06-07T17:41:30.671000,"""Does my order include a gift bag with your logo on it for Father's Day?""",false
+psychobunny,3ec4992d-d962-48f6-bc53-5493e5c65037,2024-06-07T17:32:49.239000,"""Can my shipping address be updated for a recent order I placed?""",true
+psychobunny,b588165a-be2c-4a67-8b76-3b8073d4e18f,2024-06-07T17:31:30.963000,"""Can I bring items to the mall for a refund and exchange rather than using the online return portal?""",true
+psychobunny,7a30bd83-6700-4923-8eac-c9ebfba5e251,2024-06-07T17:28:38.423000,"""Has my order been shipped?""",true
+psychobunny,a9db8612-c6da-4d42-8cc0-bce7ff39303a,2024-06-07T17:25:46.227999,"""Why can't I track my package with the provided tracking number?""",false
+psychobunny,f6743459-82d0-453a-8242-6934e550f2ab,2024-06-07T17:18:54.092000,"""What is the current status of my request that was under review?""",false
+psychobunny,a4df2668-ecbb-4bcc-8565-9ec7091ae866,2024-06-07T17:18:31.809000,"""Why haven't I received my order?""",false
+psychobunny,f26eb607-a8eb-432b-86af-b3fc58ce2b97,2024-06-07T17:12:23.601999,"""Why can't I track my order?""",true
+psychobunny,6396b42c-0716-43f6-b7b2-eebfac66d96d,2024-06-07T16:51:15.676000,"""Why has my order not arrived?""",true
+psychobunny,68e7420d-50fe-4dd4-ab94-ef749f2e549a,2024-06-07T16:51:03.530999,"""Can you provide the ETA for my order that has not arrived by the expected date?""",false
+psychobunny,68e7420d-50fe-4dd4-ab94-ef749f2e549a,2024-06-07T16:51:03.530999,"""Why hasn't the tracking information for my order been updated since the initial shipping dates?""",false
+psychobunny,68e7420d-50fe-4dd4-ab94-ef749f2e549a,2024-06-07T16:51:03.530999,"""Could my order be stuck in customs as there have been no updates and it's past the delivery window?""",false
+psychobunny,3e46a204-4f9b-4b75-9cf0-a314cf21af6d,2024-06-07T16:47:06.385999,"""What is the estimated time of arrival for my order?""",true
+psychobunny,91845df9-8149-45b0-b95d-488593b9d50c,2024-06-07T16:43:46.782000,"""Why is my package not out for delivery when the scheduled delivery date is today?""",true
+psychobunny,c780be61-9c77-4b33-8fd4-e185d1a99149,2024-06-07T16:30:38.706000,"""How do I start a return process when the system is not allowing it but customer service previously confirmed acceptance of the return?""",false
+psychobunny,9357c8e6-8644-4b9f-9fa5-9fdc074138d3,2024-06-07T16:22:21.736000,"""How can I exchange a shirt for a larger size if it's past the return window?""",false
+psychobunny,d81a1edb-e405-4cfd-b925-cb5d97ea580a,2024-06-07T16:18:23.851000,"""Can I still return the shorts for a new size after missing the exchange window?""",true
+psychobunny,ad5166ef-6d2d-473f-8a03-480c52c6a991,2024-06-07T16:13:29.546000,"""How can I get a refund for expedited shipping if my package is arriving late?""",false
+psychobunny,50ac3fcd-baa2-470a-a0d2-2ccc87e27179,2024-06-07T16:03:45.970000,"""How can I get the tracking information if the link in the confirmation email is not working?""",true
+psychobunny,81ded999-dce4-4d87-8de8-0ddced2ec1d3,2024-06-07T16:00:17.292000,"""How can I change the shirt sizes in my order from Large to XL?""",true
+psychobunny,53760e3e-7ef1-4653-95e8-955c77ec5b65,2024-06-07T15:52:07.816999,"""How can I confirm that my refund has been processed correctly?""",true
+psychobunny,73b07922-10a9-49d2-839b-fb563369fd2e,2024-06-07T15:42:23.177000,"""Why is the size of the polo I received larger than expected when the label states it is my requested size?""",false
+psychobunny,73b07922-10a9-49d2-839b-fb563369fd2e,2024-06-07T15:42:23.177000,"""Can you confirm if the size of the polo shirt I bought is correct, as it seems too large even though the label indicates my requested size?""",false
+psychobunny,e50da65e-ba49-43a5-a2b8-1d99d23b6695,2024-06-07T15:38:19.101000,"""Can someone call me to assist with an exchange?""",true
+psychobunny,c13f4bc8-d572-4ad3-87de-9e2871aea5cd,2024-06-07T15:38:11.426000,"""Why was an item missing from my delivered order?""",false
+psychobunny,dda9c68b-ed38-4b3f-99ec-9f139631d871,2024-06-07T15:37:47.551000,"""What can be done to locate my missing packages that were supposed to be delivered by FedEx?""",false
+psychobunny,38cbdd2a-4eb0-4611-878e-25fbde43cb2c,2024-06-07T15:37:18.415999,"""How do I exchange a defective product?""",false
+psychobunny,38cbdd2a-4eb0-4611-878e-25fbde43cb2c,2024-06-07T15:37:18.415999,"""What is the process for documenting and exchanging a defective item?""",false
+psychobunny,38cbdd2a-4eb0-4611-878e-25fbde43cb2c,2024-06-07T15:37:18.415999,"""Can I exchange a product without completing a return first?""",false
+psychobunny,a11437da-fab9-48fd-94bc-090d3d3fdcc7,2024-06-07T15:37:07.470999,"""Can I exchange a sale item for a different size if the size I ordered was wrong?""",false
+psychobunny,922422a1-5581-4c5f-b114-6df823764992,2024-06-07T15:34:17.253000,"""Where is my order?""",true
+psychobunny,fc5c09b4-8a3c-45c9-b7b7-8b3434dbdae1,2024-06-07T15:22:51.523000,"""How can I change the zip code on my recent purchase?""",false
+psychobunny,f7e237c7-0a95-455f-9a77-2b0c10b1d09e,2024-06-07T15:21:32.003000,"""How can I change the size of the shirts I've ordered from large to XL?""",false
+psychobunny,32c29683-4cff-4f6d-974f-1172a6620103,2024-06-07T15:13:56.670000,"""What should I do if the size labeled on my clothing purchase does not match the actual size?""",true
+psychobunny,ac91985f-4340-449d-8a5a-7332ee7f6249,2024-06-07T15:13:27.000999,"""How can I update the shipping address for my current order?""",false
+psychobunny,876be743-4c29-43a7-a887-bbef3facc09e,2024-06-07T15:07:47.427000,"""How can I exchange the shirt I ordered for a smaller size?""",true
+psychobunny,2db8a4ea-c5d1-4f07-a08a-20cb94f66dc4,2024-06-07T14:58:25.244999,"""Is it possible to receive my order by tomorrow?""",true
+psychobunny,fffd14e3-95f3-4ed6-aef4-c6b7dbadbc4b,2024-06-07T14:56:19.385999,"""Why was I charged $256 for an order when not all items have shipped?""",false
+psychobunny,b0c034ef-a103-46d2-9b1c-e10951d8f399,2024-06-07T14:50:00.447999,"""Why can't I track my order using the provided shipping information?""",true
+psychobunny,b0c034ef-a103-46d2-9b1c-e10951d8f399,2024-06-07T14:50:00.447999,"""Can I get a confirmation on my order's shipment status?""",true
+psychobunny,b0c034ef-a103-46d2-9b1c-e10951d8f399,2024-06-07T14:50:00.447999,"""May I receive an updated shipping number for my order?""",true
+psychobunny,b510391f-c310-449c-bb5e-5d0a2579f7a1,2024-06-07T14:36:52.678999,"""Why hasn't my package arrived despite being marked as out for delivery?""",false
+psychobunny,b510391f-c310-449c-bb5e-5d0a2579f7a1,2024-06-07T14:36:52.678999,"""What should I do if the tracking information indicates my package is lost?""",false
+psychobunny,7cf71153-ee53-4afe-989d-b3d83c0aa28d,2024-06-07T14:25:34.598000,"""Why has my order not arrived yet?""",true
+psychobunny,7cf71153-ee53-4afe-989d-b3d83c0aa28d,2024-06-07T14:25:34.598000,"""Can you assist me with the delivery of my order?""",true
+psychobunny,fd239538-8f4a-4869-aa74-2c94a2bb1c0c,2024-06-07T14:23:28.698999,"""Can I get a working tracking number since the one provided is not found?""",true
+psychobunny,d260cbb2-6d02-49f9-811b-d7ea018b8e86,2024-06-07T14:23:11.730999,"""Where can I return my online purchase?""",true
+psychobunny,a1b92bcf-10a5-4056-a6c3-25032c6f835f,2024-06-07T14:15:32.069000,"""¿Cuál es el nuevo modelo de polo de reemplazo que han proporcionado?""",false
+psychobunny,d77af780-65ba-43b7-9e33-613786bbf6e3,2024-06-07T14:13:51.733000,"""What should I do if I only received part of my order?""",true
+psychobunny,1c96ee2f-4771-4263-9e1d-56545f001f4c,2024-06-07T14:12:47.213000,"""Why didn't I receive a tracking number for my purchase?""",true
+psychobunny,f4a2c571-086b-43d9-8de7-d4789a027d9c,2024-06-07T13:57:40.864000,"""How can I return an item from my order?""",true
+psychobunny,735e3754-81f7-43fb-9421-f870b64444aa,2024-06-07T13:32:18.086999,"""Can you provide the correct tracking details for my order since FedEx cannot locate the package with the details I received?""",false
+psychobunny,37e338ff-8835-4592-9ae9-dcbb17907e62,2024-06-07T13:25:26.987999,"""Why was an item missing from my last order?""",true
+psychobunny,6b5412b8-321e-4d81-9b2f-e58685c1765a,2024-06-07T13:09:52.638000,"""How can I cancel a recent order to place a new one with additional items and size changes to qualify for free shipping?""",false
+psychobunny,f9022f95-473c-4211-ae30-7bdf60345da2,2024-06-07T13:03:44.888999,"""Why has one item from my order not been dispatched?""",false
+psychobunny,a385d033-7c0b-4997-aa44-140ee7c962ca,2024-06-07T12:53:45.811000,"""How can I exchange my too-large shirts for a smaller size?""",true
+psychobunny,131e9d14-a862-463d-a4ba-2ec813e4454e,2024-06-07T12:41:00.325000,"""Why wasn't the full amount of money deposited into my account?""",false
+psychobunny,b96b9a11-7f90-4b01-8f09-1598027cd4de,2024-06-07T12:38:14.453999,"""What is the status of my delayed order for which tracking information is not updating?""",false
+psychobunny,022f781a-f4a0-4f3e-9934-8c893a93938a,2024-06-07T12:02:28.772000,"""How do I exchange a defective item from my order?""",true
+psychobunny,d032a8e3-8980-4d8e-ad36-90a5f59555b0,2024-06-07T11:38:05.193000,"""Why haven't I received part of my order and how can I get a refund if it's not available?""",true
+psychobunny,17ceb6bc-005c-4793-8f7a-af51fc5982c5,2024-06-07T11:37:37.484999,"""Why can't I track my package after purchasing a shirt online?""",true
+psychobunny,f360b3a4-1a0c-4bd6-84eb-2a75eb571dee,2024-06-07T11:36:28.756999,"""Why did my order not arrive when the tracking status indicates it was delivered?""",false
+psychobunny,c3735071-9e57-4e1e-9d57-20a986a6065c,2024-06-07T11:34:46.828000,"""Why has my package not been delivered despite the delivery service's claim?""",true
+psychobunny,72842079-c209-4a1e-80fa-c5e08e3484b7,2024-06-07T11:16:39.717000,"""Why has my order not been shipped yet when it has a shipment date of May 30?""",true
+psychobunny,abeb2eb8-371c-414a-9dac-abb3c4e6fed4,2024-06-07T11:02:02.164999,"""Why doesn't FedEx have any information on my shipped order?""",true
+psychobunny,e750934c-dbcb-4c73-bfc4-de7703a36323,2024-06-07T10:10:05.947000,"""Where is my order?""",false
+psychobunny,8239acdb-404a-4710-862b-2cc87304470b,2024-06-07T08:29:51.982000,"""Why has my order not been delivered yet?""",true
+psychobunny,8239acdb-404a-4710-862b-2cc87304470b,2024-06-07T08:29:51.982000,"""Can I have an update on this order or get a refund?""",true
+psychobunny,b936181d-89f5-403e-915a-a91fb4b71ffd,2024-06-07T08:20:53.045000,"""When will the missing shirt from my order be delivered?""",true
+psychobunny,fdffc13e-d5b9-420e-810a-c70db3f9b5f1,2024-06-07T07:03:10.417999,"""Why has DHL not received the package that was supposedly sent?""",false
+psychobunny,436cedde-b872-4381-9ba5-af84ee2f11b5,2024-06-07T07:00:58.335000,"""Can I cancel my purchase and change my payment method to pay in installments through Afterpay?""",false
+psychobunny,e597a83f-41f4-4cb1-af62-f12c2af5e682,2024-06-07T06:29:17.858999,"""Why have I not received any information about my package delivery status?""",true
+psychobunny,8e03faaf-7681-4475-ae93-203b90b043f2,2024-06-07T06:03:20.446000,"""How can I get a refund for an accidental order?""",false
+psychobunny,3c086f02-c17e-4f83-b08b-73ae921f33e6,2024-06-07T06:02:36.000999,"""Why is one of the items from my order missing?""",true
+psychobunny,3bd8a550-c4eb-4eaa-8d78-b324641a91a9,2024-06-07T05:58:41.318000,"""What has happened with my order since I have not received it yet?""",true
+psychobunny,882a4906-f34b-41c6-9d99-6f461c73a49a,2024-06-07T05:58:28.243999,"""Why hasn't my order arrived within the 3-5 day shipping window?""",true
+psychobunny,882a4906-f34b-41c6-9d99-6f461c73a49a,2024-06-07T05:58:28.243999,"""Why is the tracking link in the email not working?""",true
+psychobunny,148a76e0-aae2-4b83-8dfe-2a746c162898,2024-06-07T05:35:48.493999,"""Why hasn't my order arrived yet, and why can't I find any record of the tracking number on the FedEx website?""",false
+psychobunny,f70b24f0-3d8a-4d27-a8e5-54f6ccd92045,2024-06-07T05:31:09.148999,"""Can you remove the unwanted golf balls from my order?""",false
+psychobunny,c7268321-2318-4443-88d4-ce8b196bdd05,2024-06-07T05:30:45.617000,"""Can you provide details of your complaints process?""",false
+psychobunny,87649e41-5180-4a0a-bce8-fe4c13971159,2024-06-07T05:29:33.744999,"""What can I do if I've received only part of my order and can't get through to customer service?""",false
+psychobunny,87649e41-5180-4a0a-bce8-fe4c13971159,2024-06-07T05:29:33.744999,"""How do I resolve an incomplete delivery when the tracking shows it as delivered?""",false
+psychobunny,87649e41-5180-4a0a-bce8-fe4c13971159,2024-06-07T05:29:33.744999,"""What steps should I take if I received the gift box but not the actual order?""",false
+psychobunny,66f6e6a4-feea-4d96-bc3e-49f0ac735616,2024-06-07T05:27:35.384999,"""Why is my package marked as delivered when I haven't received it?""",true
+psychobunny,7e94b867-c2ce-40ff-a585-f24adbd60dfe,2024-06-07T05:26:03.190000,"""Why has my outfit not been received while only the gift box has arrived?""",true
+psychobunny,56fcff1e-a706-4e79-804a-3cf7ebcdb06f,2024-06-07T05:02:24.595999,"""How can I get my returned order re-delivered?""",false
+psychobunny,56fcff1e-a706-4e79-804a-3cf7ebcdb06f,2024-06-07T05:02:24.595999,"""What are my options after my order was returned by UPS due to a failed delivery attempt?""",false
+psychobunny,426a7297-1929-46f0-a8ef-9f24e39c568e,2024-06-07T04:37:00.127000,"""Which items are available for shipping to France?""",true
+psychobunny,5319a435-f273-4793-afc9-656185545a92,2024-06-07T04:26:17.440999,"""Can a submitted return be adjusted to an exchange for a different size of the same item?""",true
+psychobunny,a3d21ad2-8d41-4e10-9440-d8a18c0ff437,2024-06-07T04:19:16.279000,"""How long does it take for a refund to be reflected on my account?""",false
+psychobunny,a3d21ad2-8d41-4e10-9440-d8a18c0ff437,2024-06-07T04:19:16.279000,"""Can I receive a discount coupon for my next purchase due to the inconvenience caused?""",false
+psychobunny,d92950c4-084b-416c-85d1-cdc412f11892,2024-06-07T03:38:59.286999,"""When will my order arrive?""",true
+psychobunny,0e66663d-ec62-416c-84b1-96fd16e1bd7a,2024-06-07T03:10:41.421999,"""Why haven't I received my order when the tracking information says it has been delivered?""",true
+psychobunny,86ba71a2-0cc1-4614-8008-16b7f5368e9a,2024-06-07T03:09:23.729000,"""Can my polo shirt order be returned and exchanged for the men's Tarrytown?""",true
+psychobunny,d4291ce1-f468-4d32-a535-9a28d3122d90,2024-06-07T03:02:11.556999,"""What is the status of my recent order after sending a replacement request?""",false
+psychobunny,1ce90e99-f248-4da5-a9b5-85f46f439544,2024-06-07T02:49:31.319000,"""Can I change the size of an item in my order if the wrong size was ordered and it's already been shipped to Mexico?""",true
+psychobunny,ea3f4c35-95af-44ca-bec0-2650dbc9e97e,2024-06-07T02:44:33.451999,"""What should I do if items are missing from my order?""",false
+psychobunny,bf34c092-a398-4476-b1df-18eac9b8f7ac,2024-06-07T02:36:59.680000,"""Can I change the size of the product I ordered?""",true
+psychobunny,4e8563d1-58ef-4b30-96c9-8bf55f652773,2024-06-07T02:36:36.368999,"""Where is my package?""",true
+psychobunny,67bee39f-980c-4fa1-9149-123eeb55b4e9,2024-06-07T02:30:54.186000,"""What does the statement 'my return consists of items that require additional attention' mean when all returned items are new with original tags and within the 30-day return period?""",true
+psychobunny,67bee39f-980c-4fa1-9149-123eeb55b4e9,2024-06-07T02:30:54.186000,"""Can my return be processed and credit issued before the end of the month to avoid credit card interest charges?""",true
+psychobunny,30db5dbe-1e18-4e6a-8492-4b3ff3630268,2024-06-07T02:28:25.726000,"""How can I update the shipping address for my order that has the wrong address?""",false
+psychobunny,3ae40661-4d5a-4c95-b836-1ee4d88228f2,2024-06-07T02:24:32.584000,"""Why were two shirts from my order missing when the package arrived?""",false
+psychobunny,f9415381-7e8b-4431-ac24-82dd6ad6423b,2024-06-07T02:20:14.029000,"""What should I do if I received the wrong shirt size?""",true
+psychobunny,962eaab0-61fd-41be-8e3c-0d876eeb8613,2024-06-07T02:18:03.132999,"""How can I return an item if the online return process is unavailable?""",false
+psychobunny,962eaab0-61fd-41be-8e3c-0d876eeb8613,2024-06-07T02:18:03.132999,"""Can I return an item that does not meet my expectations but is not marked down by 50% or more?""",false
+psychobunny,962eaab0-61fd-41be-8e3c-0d876eeb8613,2024-06-07T02:18:03.132999,"""What should I do if the system prevents me from initiating a return within the 30-day return window?""",false
+psychobunny,14f97666-01f4-44d5-b95c-f49960b13046,2024-06-07T02:14:04.756999,"""How can I return a shirt that doesn't fit when the online return system states it is unavailable to return?""",true
+psychobunny,14f97666-01f4-44d5-b95c-f49960b13046,2024-06-07T02:14:04.756999,"""What should I do if only one out of three shirts fits and the other two do not, but the return is unavailable?""",true
+psychobunny,61dc0036-2afa-4d76-bf24-30371dc04335,2024-06-07T02:11:23.697000,"""What should I do if my package is marked as delivered but I have not received it?""",false
+psychobunny,61dc0036-2afa-4d76-bf24-30371dc04335,2024-06-07T02:11:23.697000,"""Can assistance be provided for a package that was not cheap and has not arrived in over 2 weeks?""",false
+psychobunny,61dc0036-2afa-4d76-bf24-30371dc04335,2024-06-07T02:11:23.697000,"""What steps can be taken when neighbors and building personnel have not seen the missing package?""",false
+psychobunny,38ea5003-7a79-4b88-b7d3-beb214d0d773,2024-06-07T01:56:13.211999,"""How can I return items purchased online?""",true
+psychobunny,e2fe572c-1228-456b-9580-cc23e268e945,2024-06-07T01:52:36.667000,"""Why does the tracking indicate my package is delivered when I have not received it?""",true
+psychobunny,d258b657-3eb2-4188-b562-64a146b244ad,2024-06-07T01:52:20.789999,"""What should I do if an item from my order was not delivered?""",true
+psychobunny,d258b657-3eb2-4188-b562-64a146b244ad,2024-06-07T01:52:20.789999,"""How can I track the delivery process of the missing item?""",true
+psychobunny,d258b657-3eb2-4188-b562-64a146b244ad,2024-06-07T01:52:20.789999,"""What steps should I take if the missing item's status changes to 'Delivered' but I still haven't received it?""",true
+psychobunny,22bcc8cc-ce97-403c-a514-2a573c33374a,2024-06-07T01:50:25.641999,"""How can I return an item that differs in size from others I ordered?""",true
+psychobunny,61a5a164-4d23-4f88-9d57-a16a4fb52c3a,2024-06-07T01:48:28.431999,"""What should I do about receiving the wrong item in my order?""",false
+psychobunny,61a5a164-4d23-4f88-9d57-a16a4fb52c3a,2024-06-07T01:48:28.431999,"""How can I get the correct item that I originally ordered to be sent to me?""",false
+psychobunny,7a602fef-be96-4121-bb17-029fa95a9548,2024-06-07T01:44:06.601000,"""How do I return an item that doesn't fit as expected?""",true
+psychobunny,10b3cdee-a4c8-483f-8c37-d938e398156c,2024-06-07T01:27:18.782999,"""Why am I unable to process a return when the items were not final sale?""",false
+psychobunny,10b3cdee-a4c8-483f-8c37-d938e398156c,2024-06-07T01:27:18.782999,"""Can I get a store credit if a return is not possible?""",false
+psychobunny,ade52c67-58d5-4609-b37a-91c73c3c4cd0,2024-06-07T01:18:13.704999,"""What is the status of the remaining items from my order that included multiple t-shirts?""",false
+psychobunny,9eff3218-4324-4ff1-8b0a-09e957955537,2024-06-07T01:15:53.959000,"""Can you update the shipping address for my order?""",false
+psychobunny,08ad009d-3a5a-4cee-aa8c-f137223d25df,2024-06-07T01:12:57.696000,"""Why doesn't my tracking number work?""",false
+psychobunny,08ad009d-3a5a-4cee-aa8c-f137223d25df,2024-06-07T01:12:57.696000,"""The tracking link provided does not function, what should I do next?""",false
+psychobunny,a4f378c2-2d5d-484b-9deb-060796600e94,2024-06-07T01:06:29.634000,"""When will my last shirt from the order arrive?""",false
+psychobunny,2470eaa7-6513-40ca-b5ac-15e2d1a0a49a,2024-06-07T01:03:08.677000,"""What should I do if I received the wrong shirt in my order?""",true
+psychobunny,b2dbc091-b3f5-4dec-ad9c-d99c92421b60,2024-06-07T00:42:17.171999,"""Can I have the tracking number for my June 1st order?""",true
+psychobunny,45fae60c-d5f0-4265-a64c-61cc77a14bc2,2024-06-07T00:27:46.543999,"""Will I be receiving the missing black shirt from my order or getting a refund?""",false
+psychobunny,dd9e590a-d0e9-4acf-a59b-c312e34be5a1,2024-06-07T00:24:33.904000,"""Why doesn't the tracking number provided work, and why have I not received my order yet?""",true
+psychobunny,ff913097-ea10-4d73-a808-e91148376818,2024-06-07T00:11:52.411000,"""Why does the tracking information show that there is no shipment for the t-shirt sent by FedEx a week ago?""",false
+psychobunny,dac3696f-af04-4e13-ae68-4777bf1bc0bf,2024-06-07T00:11:01.210999,"""Why haven't I received the remaining items from my order?""",false
+psychobunny,dac3696f-af04-4e13-ae68-4777bf1bc0bf,2024-06-07T00:11:01.210999,"""What should I do since the tracking link for the remaining items is not showing any status?""",false
+psychobunny,70de135e-9307-4abc-9866-02f016a87cb0,2024-06-07T00:07:21,"""Why haven't I received tracking information for my order placed 4 days ago?""",false
+psychobunny,70de135e-9307-4abc-9866-02f016a87cb0,2024-06-07T00:07:21,"""What can I do if the tracking information provided shows 'No record of this tracking number' on the carrier's website?""",false
+psychobunny,70de135e-9307-4abc-9866-02f016a87cb0,2024-06-07T00:07:21,"""When will my order arrive if it was intended as a birthday gift for this weekend?""",false
+psychobunny,db227ddf-93c3-470c-bc96-166bbc11e9cc,2024-06-07T00:06:13.438999,"""Why is there no tracking information available for my shipped order, and why haven't I received my items?""",false
+psychobunny,db227ddf-93c3-470c-bc96-166bbc11e9cc,2024-06-07T00:06:13.438999,"""Can you resend the items since they have not been delivered and there is no tracking update?""",false
+psychobunny,bfea4ff4-43ae-4b09-8b78-32b13be37b26,2024-06-06T23:57:08.641999,"""When will I see the refund amount on my credit card?""",false
+psychobunny,0dce117d-7cb2-4d6b-a50c-a459c6accc9e,2024-06-06T23:46:01.348000,"""Can you change the shipping address for my order to a new one provided?""",true
+psychobunny,18549d9a-12b1-464a-b263-ae5c83d43d1b,2024-06-06T23:43:27.641000,"""How can I return items if I do not know my order ID?""",true
+psychobunny,e2e564c3-754f-42f0-a4c7-62f34b38ceb3,2024-06-06T23:41:01.960000,"""Can you confirm if golf balls were included in my order since I spent over $150?""",false
+psychobunny,830d31af-9cf7-4440-a611-4c8faca321d3,2024-06-06T23:40:49.871000,"""Why did I not receive my golf balls with my order?""",false
+psychobunny,9dd762a7-15f1-46c2-9237-592274d004cf,2024-06-06T23:39:53.388999,"""Why was I charged for golf charges during a return and exchange?""",true
+psychobunny,63633c13-0891-4ed2-9b7f-7212672f998b,2024-06-06T23:36:16.128999,"""Why haven't I received my order when the tracking status indicates it has been delivered?""",true
+psychobunny,2ba1dcc3-8ca2-4c8e-9922-e5bacdc69121,2024-06-06T23:24:01.483000,"""Why haven't I received the item I ordered a while ago?""",false
+psychobunny,acd05ab1-0896-4241-9582-951db7eb77a7,2024-06-06T23:23:15.828999,"""Can you correct the email address associated with my online purchase?""",true
+psychobunny,34c66632-6707-4038-af7a-d09df656e1fe,2024-06-06T23:07:01.046999,"""How can I remove an unwanted item from my order?""",false
+psychobunny,60327501-8fe3-4b7f-b644-3dbf41304fa8,2024-06-06T23:03:50.328000,"""How can I cancel my order?""",false
+psychobunny,86d9ae3a-7f91-4944-a6d5-1d250333d16b,2024-06-06T22:42:12.372999,"""Why did I receive only one of the two shirts I ordered when the delivery status says both have arrived?""",true
+psychobunny,86d9ae3a-7f91-4944-a6d5-1d250333d16b,2024-06-06T22:42:12.372999,"""What should I do if the tracking number provided for my order is invalid?""",true
+psychobunny,86d9ae3a-7f91-4944-a6d5-1d250333d16b,2024-06-06T22:42:12.372999,"""How can I get the missing item from my order delivered?""",true
+psychobunny,1c54df01-9ec1-40ed-b787-ce8f89f38591,2024-06-06T22:33:49.197000,"""Why is there an error message when I click on the 'track shipment' link for my package?""",true
+psychobunny,d639b02f-2ea8-43a4-b958-e5b89a9cc17b,2024-06-06T22:24:29.953000,"""How can I cancel my order?""",false
+psychobunny,d20c1b62-8bcb-49c5-a0c6-5e195b307e3f,2024-06-06T22:23:17.194000,"""How can I cancel my order?""",false
+psychobunny,fc523606-c129-4d63-94ba-d39b63438c7f,2024-06-06T22:21:42.474999,"""How can I change the shipping address for my order?""",false
+psychobunny,0ea6174a-2fdf-4bbf-9405-37ac9dffe7b3,2024-06-06T22:00:16.828000,"""Why has my order not arrived yet?""",false
+psychobunny,cb685d88-53d4-43bc-bd1f-242469f36b9d,2024-06-06T21:47:32.348000,"""Why did I receive pants instead of the shirt I exchanged for?""",false
+psychobunny,7e629bd8-3228-42eb-9f15-66fa818a745c,2024-06-06T21:39:51.678999,"""Why haven't I received my package despite being home all day and my ring camera showing no delivery?""",false
+psychobunny,d6d59578-f6eb-4600-9252-4b743fffa27d,2024-06-06T21:39:11.775000,"""Why did the item I exchanged not arrive in my package?""",true
+psychobunny,c0d246f4-1e9c-4a70-8fc3-4b7f8ce98ebc,2024-06-06T21:32:57.233000,"""What happens if an item from my order is missing from the delivery?""",true
+psychobunny,c0d246f4-1e9c-4a70-8fc3-4b7f8ce98ebc,2024-06-06T21:32:57.233000,"""Will I receive the missing item from my order or will I get a refund?""",true
+psychobunny,ece7e5d1-5ba3-476b-a594-35c9c7b28176,2024-06-06T21:22:12.835000,"""Can my lost shipment be resent instead of being refunded?""",false
+psychobunny,ee2d4a82-e505-4fde-9e93-d2b6955359ca,2024-06-06T21:02:18.375000,"""Why hasn't my shirt arrived yet even though I ordered it in May?""",false
+psychobunny,d6b74fcc-f50b-43da-b8e9-e5c3859eeee6,2024-06-06T21:02:01.911000,"""Why has my shirt not been delivered?""",false
+psychobunny,9776d792-b6e0-4bce-a58b-2b8eae44cb69,2024-06-06T20:51:11.013000,"""What should I do if my package tracking shows an error message and I need it by a specific date?""",true
+psychobunny,9bae1175-6de6-4635-9cd6-c9ed615b9c10,2024-06-06T20:50:57.025000,"""What should I do if an item is missing from my order?""",false
+psychobunny,162a0589-9ee2-4778-93f2-bc00fe0a1ab8,2024-06-06T20:47:36.694999,"""How do I make a return when the system says my email and order number don't exist?""",true
+psychobunny,12a836e2-3b97-4349-b7ed-7fdbb11e68ea,2024-06-06T20:43:40.230000,"""I wanted to confirm if you received the additional picture I sent to help your technical team with the shipping address issue?""",false
+psychobunny,46285a39-8b58-4fa8-a3c9-ec98399e5cd8,2024-06-06T20:41:53.052000,"""Why haven't I received my two missing t-shirts, and why can't I track them on FedEx?""",false
+psychobunny,26697682-9bae-4601-9cc8-299c7182bc3a,2024-06-06T20:39:35.151999,"""When will the technical team respond regarding the error message I am receiving with my shipping address?""",false
+psychobunny,e77de1c1-9434-4a4a-829a-b817367270b8,2024-06-06T20:32:06.769999,"""Can you provide me with a phone number for support?""",false
+psychobunny,e77de1c1-9434-4a4a-829a-b817367270b8,2024-06-06T20:32:06.769999,"""What are the correct steps to enter my shipping address during the checkout?""",false
+psychobunny,bac81f48-b317-4bba-a350-0c376b13375c,2024-06-06T20:27:51.953999,"""Why can't I ship my order to an address that has worked for previous orders?""",true
+psychobunny,bac81f48-b317-4bba-a350-0c376b13375c,2024-06-06T20:27:51.953999,"""What steps can I take to resolve the issue of the site not accepting my shipping address?""",true
+psychobunny,b345ca82-5674-42a5-b6bc-43b3c2b673d0,2024-06-06T20:24:50.073999,"""Why has my package not been delivered?""",true
+psychobunny,b345ca82-5674-42a5-b6bc-43b3c2b673d0,2024-06-06T20:24:50.073999,"""Has my package been misshipped?""",true
+psychobunny,b345ca82-5674-42a5-b6bc-43b3c2b673d0,2024-06-06T20:24:50.073999,"""Has the tracking information changed for my order?""",true
+psychobunny,b345ca82-5674-42a5-b6bc-43b3c2b673d0,2024-06-06T20:24:50.073999,"""Can I get a refund since my package was not delivered?""",true
+psychobunny,d1c4c08c-63ed-4a9e-9a6d-05ab79863381,2024-06-06T20:24:42.196000,"""Why has my package not been delivered, and can I get a refund?""",true
+psychobunny,b7b24f1e-f652-47ef-941b-b542654736c6,2024-06-06T20:24:39.969000,"""When will the missing item from my order be shipped?""",true
+psychobunny,ef61eee6-5ef2-4713-a738-51090a80cb5a,2024-06-06T20:14:34.598000,"""Can you show me an example of a valid address format for France because my address is not being accepted?""",true
+psychobunny,fc2d4595-5cee-4dd0-9fd1-0db37c1f3b05,2024-06-06T20:05:57.259000,"""What size will my order be shipped in since the requested size is unavailable?""",true
+psychobunny,fc2d4595-5cee-4dd0-9fd1-0db37c1f3b05,2024-06-06T20:05:57.259000,"""How long will it take for my order to arrive at my address?""",true
+psychobunny,c77a9246-8614-48fe-a755-bbd41729cc48,2024-06-06T20:05:16.805999,"""Can you provide an example of a valid address format for France?""",false
+psychobunny,b22c563f-f89c-4eec-9a8d-dc57a0db4d8c,2024-06-06T19:55:47.003999,"""Where is the missing item from my order?""",true
+psychobunny,9a3e18b9-920f-4084-a58b-21f37c44abc6,2024-06-06T19:53:59.769000,"""Why can't my order be shipped to my usual address, and what can be done to resolve this issue?""",true
+psychobunny,10a6fe4c-155f-45a2-a5a4-c4440477dbf8,2024-06-06T19:52:02.157999,"""Why haven't I received the fuschia polo from my order?""",false
+psychobunny,10a6fe4c-155f-45a2-a5a4-c4440477dbf8,2024-06-06T19:52:02.157999,"""Can I choose a different item of the same price since the originally ordered item is no longer available and the sale is over?""",false
+psychobunny,10a6fe4c-155f-45a2-a5a4-c4440477dbf8,2024-06-06T19:52:02.157999,"""Are there issues accessing emails sent to customer service from my email address?""",false
+psychobunny,d7dfdea6-fa79-4964-b70f-db948c43400e,2024-06-06T19:48:26.104000,"""Why is my usual address not being accepted for delivery?""",true
+psychobunny,9b8f6154-d92a-49f6-ac92-fcfb61fab58c,2024-06-06T19:45:31.496000,"""Why is my usual address not being accepted for delivery?""",true
+psychobunny,9b8f6154-d92a-49f6-ac92-fcfb61fab58c,2024-06-06T19:45:31.496000,"""Can you help me validate delivery to my home address in France?""",true
+psychobunny,e4023bb6-bb0a-4178-8552-ba6b6d1e2de7,2024-06-06T19:45:25.901000,"""How can I remove an unwanted item from my order before it gets shipped?""",false
+psychobunny,3a91c9d3-35b9-4970-a08f-ae010fd91376,2024-06-06T19:42:33.200999,"""Why haven't I received my package despite the tracking status showing 'Delivered to agent for final delivery'?""",true
+psychobunny,232e08ab-691a-4609-8708-fe3fb88c7fd6,2024-06-06T19:39:15.029000,"""Can you confirm if you have received my correct shipping address?""",true
+psychobunny,a317ea94-8c88-4206-8415-c5fcc53b3b7b,2024-06-06T19:38:40.565999,"""Why haven't I received one item from my order and what should I do next?""",false
+psychobunny,7f66dd63-b1d3-4690-911c-e47fdeaddbc3,2024-06-06T19:38:07.755000,"""How will the issue of the missing items from my order be resolved?""",false
+psychobunny,cf93029c-2b50-4cee-9485-be5f5d7bd9a8,2024-06-06T19:37:55.433000,"""Why have I not received one of the items I ordered?""",true
+psychobunny,d9c696f9-d3b9-4b33-8de4-b195f3f193de,2024-06-06T19:36:14.463999,"""What should I do if I never received my polo that was marked as delivered?""",false
+psychobunny,d9c696f9-d3b9-4b33-8de4-b195f3f193de,2024-06-06T19:36:14.463999,"""How can the issue of a missing delivered order be resolved?""",false
+psychobunny,38d5d673-5da1-453d-b32b-6916b1a5bc31,2024-06-06T19:33:52.371999,"""How can I track a package if I received an incomplete order?""",true
+psychobunny,54674f2b-7411-4957-bff7-d61f1e7f8f90,2024-06-06T19:32:39.608000,"""What should I do about missing items from my delivery?""",true
+psychobunny,94a2db11-a291-4897-9a33-c2874a98550d,2024-06-06T19:31:49.786999,"""Why haven't I received the polo that was reportedly delivered 4 weeks ago?""",true
+psychobunny,d701167b-8c04-4abf-8226-3cfb9ad7c83f,2024-06-06T19:28:30.263000,"""What size will be sent to me if my selected size is unavailable?""",true
+psychobunny,c9e07ebc-7e20-4cd5-867b-c4de350bbfd5,2024-06-06T19:16:21.539999,"""Has my return been processed and when can I expect my refund?""",true
+psychobunny,ddc21c46-7904-4dc3-a926-1e6204aca54d,2024-06-06T19:14:05.374000,"""When will I receive my order?""",true
+psychobunny,db4dc8f5-05e6-4b1e-a1b1-10d98224f0df,2024-06-06T19:13:38.690999,"""Why can't I validate delivery to my home in France?""",true
+psychobunny,db4dc8f5-05e6-4b1e-a1b1-10d98224f0df,2024-06-06T19:13:38.690999,"""Do you need my customer number to assist with delivery validation?""",true
+psychobunny,c637aaa4-9652-4086-a4dd-b152cce467ef,2024-06-06T19:10:32.200999,"""Why does my package status say 'pick up point' without providing a location for pickup?""",false
+psychobunny,c637aaa4-9652-4086-a4dd-b152cce467ef,2024-06-06T19:10:32.200999,"""What should I do if the tracking link does not provide the address of the pick-up point?""",false
+psychobunny,1e5b1cc5-3507-4467-ba94-8693cb14ac69,2024-06-06T19:09:44.240999,"""Do I need to provide my customer number for assistance?""",true
+psychobunny,1e5b1cc5-3507-4467-ba94-8693cb14ac69,2024-06-06T19:09:44.240999,"""Can you reserve the items in my basket?""",true
+psychobunny,a59191f6-5d8f-421d-bfa1-31050f15f4d3,2024-06-06T19:08:27.503000,"""Why can't I submit a return through the online system for my order?""",true
+psychobunny,e7eb851e-7303-4b2a-bec3-2d9322ae4b02,2024-06-06T19:05:27.101000,"""How can I place a new order if the 2 shipping methods are not available?""",false
+psychobunny,76e04fa4-765f-44de-850c-962f22488224,2024-06-06T18:58:40.984999,"""What does 'pick up point' status mean for my package?""",true
+psychobunny,76e04fa4-765f-44de-850c-962f22488224,2024-06-06T18:58:40.984999,"""Where should I pick up my package if it's at a 'pick up point'?""",true
+psychobunny,30c197ce-dac0-4246-8366-9984b372ef6a,2024-06-06T18:57:54.094000,"""Why hasn't my order shipped from New York since May 31st?""",false
+psychobunny,30c197ce-dac0-4246-8366-9984b372ef6a,2024-06-06T18:57:54.094000,"""Is there any chance my parcel will arrive before June 16th?""",false
+psychobunny,dfd9dc4c-eeeb-4c1f-b23a-79c0266ab596,2024-06-06T18:57:11.588000,"""Where is the update on my missing package that is under investigation by UPS?""",false
+psychobunny,dfd9dc4c-eeeb-4c1f-b23a-79c0266ab596,2024-06-06T18:57:11.588000,"""I want a response regarding the missing package from my order.""",false
+psychobunny,0843fd87-8dde-41f2-ac51-9d25e03f0edd,2024-06-06T18:48:58.342999,"""Can you provide an update on the delivery date for my order or issue a refund since it's been over a month without delivery?""",false
+psychobunny,6ccff685-9d04-4b27-9596-90144b1e8661,2024-06-06T18:48:48.674000,"""Why was I charged for a canceled order?""",false
+psychobunny,55328b82-1615-4808-b828-c668c69e335f,2024-06-06T18:31:45.255000,"""How can I cancel my order?""",false
+psychobunny,7b6460dd-f542-4aac-85b6-8dc046aed75e,2024-06-06T18:29:46.509000,"""When will my other package arrive if I am unable to track it?""",false
+psychobunny,c9403ae5-69ec-44c2-badf-c14b60f95aae,2024-06-06T18:26:28.997999,"""Is my out-of-stock item going to be shipped or will my order be unfulfilled?""",true
+psychobunny,31388022-e6b7-4d38-9e49-437a7a975a5c,2024-06-06T18:19:08.549000,"""What can be done about a missing item from my delivered order?""",true
+psychobunny,7a54d50d-ecb8-440f-a00a-d039d4fab962,2024-06-06T18:15:31.844000,"""Why is there no information on the FedEx tracking for my order that shipped over a week ago?""",false
+psychobunny,7c0009b0-772d-4835-9b9f-f46c150f98e0,2024-06-06T18:07:30.240000,"""Why have I not received an update on my order?""",true
+psychobunny,3609b49d-a1bd-4b0e-bbd8-340d8dadd953,2024-06-06T18:06:48.953999,"""What is the status of my order?""",false
+psychobunny,b6f46f0a-c83f-4eac-9a86-bde2b69bc4d4,2024-06-06T17:59:29.371999,"""Why was an item missing from my delivery?""",true
+psychobunny,b6f46f0a-c83f-4eac-9a86-bde2b69bc4d4,2024-06-06T17:59:29.371999,"""Can you double-check my order and send me the missing item?""",true
+psychobunny,ff86284a-8485-4015-ac58-7139f5163bed,2024-06-06T17:56:39.019999,"""Why did my returned box come back to me and can you provide a new return QR code?""",true
+psychobunny,e786b9c9-0eaf-4bc5-97b7-5c3a22f893e4,2024-06-06T17:53:33.450000,"""Why have I not received my cap from my order?""",true
+psychobunny,e786b9c9-0eaf-4bc5-97b7-5c3a22f893e4,2024-06-06T17:53:33.450000,"""Can someone contact me regarding the missing cap from my order?""",true
+psychobunny,edc4e799-06b5-438b-b238-893be117a4ed,2024-06-06T17:50:31.783999,"""Can you assist with an exchange when the discount is not recognized by the portal?""",false
+psychobunny,5766d2dd-7bf9-4f7a-a562-6adc3f97bf09,2024-06-06T17:49:45.411999,"""Can my full payment be canceled so I can use the payment plan option instead?""",false
+psychobunny,68ffcc24-2c70-41e6-bc1d-40d3c1e7968f,2024-06-06T17:45:49.566999,"""Can I exchange an item for a different size without losing the discount?""",true
+psychobunny,0428097f-6bb2-4e87-a01b-64848099778a,2024-06-06T17:43:42.453999,"""Why have I not received my cap?""",true
+psychobunny,2ad2dffb-d6a8-479d-8b10-cc1f30d58315,2024-06-06T17:41:28.089999,"""How can I change the size of an item I received because it's too small?""",true
+psychobunny,a9b45307-c96e-4fdd-a9bd-b8ecc3dff54d,2024-06-06T17:38:07.657999,"""Why hasn't my T-shirt order been shipped?""",true
+psychobunny,052b0efc-e7fa-4d87-8652-77ca2511cf20,2024-06-06T17:37:52.463999,"""Why haven't I received the last shirt from my order despite receiving the other items?""",false
+psychobunny,c9f08dc8-ba7e-40ae-8466-6fb907743226,2024-06-06T17:15:05.654999,"""Why has my order not arrived?""",true
+psychobunny,a1207de4-efdc-41a4-85ad-85b4e95fedc4,2024-06-06T17:14:30.312999,"""Why hasn't my order arrived?""",false
+psychobunny,5ec1f752-1300-4a46-a82f-8efd7ed3acbc,2024-06-06T17:13:46.688999,"""Why hasn't my order arrived yet?""",true
+psychobunny,9789f313-a895-469a-8702-3b8f6351a765,2024-06-06T17:10:26.674000,"""Why was an item missing from my shipment?""",true
+psychobunny,916e1114-f24d-496e-b3c6-7582caacf5e1,2024-06-06T17:06:39.282000,"""Why hasn’t my package been shipped yet?""",true
+psychobunny,c01ecb53-5e86-4993-865c-9cbfaabb6160,2024-06-06T16:50:48.357000,"""What is the status of my order that has been placed for more than 10 days without an update?""",false
+psychobunny,9de81892-1e01-40f5-818a-45a282a0a05b,2024-06-06T16:49:04.153000,"""Why haven't I received my hat from my order which was supposed to be delivered?""",true
+psychobunny,b241f6cd-248a-4211-b762-61302e63c8ab,2024-06-06T16:32:52.042999,"""What is happening with the missing item from my order?""",true
+psychobunny,de1a38b7-ebed-4df4-8e71-d94fd954ddb0,2024-06-06T16:24:55.993000,"""Can I get free shipping for my below $100 purchase?""",true
+psychobunny,037cb9eb-16b8-47cc-98be-91d785403c10,2024-06-06T16:23:45.009999,"""Can you provide the current status of my order that I don't have a tracking number for?""",true
+psychobunny,df1a41aa-bbe2-47aa-ad80-d5bc9e17a92f,2024-06-06T16:22:12.405999,"""Can I get free shipping on my purchase?""",true
+psychobunny,5aeaceb7-068f-42c4-87cc-bbcb5bc77e44,2024-06-06T16:09:26.937000,"""How do I exchange an item for a different size?""",true
+psychobunny,203803a0-cda5-47ba-a741-107c9377bc6e,2024-06-06T16:09:01.476999,"""What is the expected arrival date of my order?""",true
+psychobunny,203803a0-cda5-47ba-a741-107c9377bc6e,2024-06-06T16:09:01.476999,"""Why hasn't my order moved from its current location?""",true
+psychobunny,1794691f-2cb9-4b25-a8f1-2378cb4fea2d,2024-06-06T16:08:19.993000,"""When will my order arrive at my address?""",true
+psychobunny,1794691f-2cb9-4b25-a8f1-2378cb4fea2d,2024-06-06T16:08:19.993000,"""Why has my order stopped moving on the tracking?""",true
+psychobunny,529c1df5-420a-478e-b673-51771c9344ee,2024-06-06T15:58:45.746999,"""Why haven't I received any updates about the shipment of my order and why is there an error when I try to track it?""",true
+psychobunny,02471c18-c6ba-45d9-9b65-231a4eec987f,2024-06-06T15:54:10.130000,"""Can you change the shirt size in my order to size 7 instead of 6?""",false
+psychobunny,57759ada-0b31-45a3-a458-cb41b2c7a723,2024-06-06T15:48:45.375999,"""Why is the FedEx tracking number provided not showing any results?""",false
+psychobunny,d0e92c2e-5e37-4de1-8a3e-c3cc68846186,2024-06-06T15:40:19.694999,"""Is my order out for delivery?""",true
+psychobunny,06cb2b6f-f7a0-444e-8965-4e9bf6b73f13,2024-06-06T15:34:24.769999,"""Can you connect me with the person responsible for collaborations at Psycho Bunny?""",false
+psychobunny,f5c7c85e-e1b8-4db6-aec2-3bd7a1de7bc9,2024-06-06T15:13:06.063999,"""Can you cancel an order and refund the full amount?""",false
+psychobunny,cd7c6899-f299-48eb-a5e2-c0299c2a6a14,2024-06-06T15:12:49.596999,"""Can you help me with my order's tracking as it shows as invalid and I believe my order is lost?""",false
+psychobunny,4333d707-dc1b-4d96-b1a9-667f34f30628,2024-06-06T14:56:28.648999,"""Where is my order that says delivered but I haven't received it?""",false
+psychobunny,eb13daa0-819f-4474-89cd-942a395d64f7,2024-06-06T14:49:12.671000,"""How can I receive a refund for my purchase?""",true
+psychobunny,c89bae8c-858a-45dc-b0e6-39fbb2c41feb,2024-06-06T14:48:03.664999,"""Why haven't I received a refund for expedited shipping when my package was delayed?""",false
+psychobunny,edb557fd-831f-4431-b054-332a96e67e06,2024-06-06T14:47:24.782999,"""Why was there no status available for the original FedEx tracking number provided for my order?""",true
+psychobunny,edb557fd-831f-4431-b054-332a96e67e06,2024-06-06T14:47:24.782999,"""How can this situation be improved to prevent future dissatisfaction with the tracking process?""",true
+psychobunny,edb557fd-831f-4431-b054-332a96e67e06,2024-06-06T14:47:24.782999,"""What course of action would you suggest for a customer considering not to purchase from your store due to this issue?""",true
+psychobunny,ee6457ab-e4d4-4301-bc7c-7cd7b656f339,2024-06-06T14:41:47.766000,"""Can you provide me with a tracking number for my order?""",true
+psychobunny,9baf3edc-7e01-4a8a-9c09-f250f14d6e55,2024-06-06T14:37:04.674000,"""What is the return policy?""",true
+psychobunny,9baf3edc-7e01-4a8a-9c09-f250f14d6e55,2024-06-06T14:37:04.674000,"""How can I return a store purchase without physically going to the store?""",true
+psychobunny,9baf3edc-7e01-4a8a-9c09-f250f14d6e55,2024-06-06T14:37:04.674000,"""How can I generate a return label?""",true
+psychobunny,9baf3edc-7e01-4a8a-9c09-f250f14d6e55,2024-06-06T14:37:04.674000,"""Where can I drop off the return package?""",true
+psychobunny,77f63b27-26dc-4997-9ce6-faf7bd16722d,2024-06-06T14:33:20.443000,"""Why was only a partial refund issued when the full amount expected was higher?""",false
+psychobunny,c23e22bd-5037-448d-88ee-d46b21a5ddea,2024-06-06T14:29:01.467000,"""Why wasn't my full refund issued?""",false
+psychobunny,f018671a-8c16-44d9-ac40-496c21384283,2024-06-06T14:25:57.609999,"""Can I get a refund for an item I did not receive?""",false
+psychobunny,841a0b9a-8241-4362-bebb-ced6dd4e2dd4,2024-06-06T14:25:27.921999,"""Why does the return process not recognize my order number when I attempt to return an item?""",true
+psychobunny,ba2bfe50-229c-422f-bbb1-b3a118757996,2024-06-06T14:23:49.753999,"""Why haven't I received my items yet?""",false
+psychobunny,ed1e48d3-4799-4dc7-a588-2d4c4647fdf6,2024-06-06T14:18:37.266999,"""Can I change my refund request to an exchange?""",true
+psychobunny,dc42e4e5-c19f-4ca6-ad7a-1fe08b464a3f,2024-06-06T14:12:29.486999,"""Was my order shipped separately since I only received the oversized shirt?""",true
+psychobunny,898063bc-d684-4554-b6c6-f2fd4108969b,2024-06-06T14:08:37.811000,"""What should I do if my order is marked as delivered but I haven't received it?""",false
+psychobunny,898063bc-d684-4554-b6c6-f2fd4108969b,2024-06-06T14:08:37.811000,"""How can I proceed in resolving a delivery issue when the package can't be located after checking with neighbors and the shipping address is confirmed to be correct?""",false
+psychobunny,898063bc-d684-4554-b6c6-f2fd4108969b,2024-06-06T14:08:37.811000,"""What are my next steps when I've verified my address and surroundings but still can't find my delivered order?""",false
+psychobunny,c7d36d81-403b-4a2f-b37b-9057ac2525a2,2024-06-06T14:06:01.779999,"""Why did I not receive an item from my order despite the delivery notification?""",true
+psychobunny,a17b060b-4dae-43c3-a092-694f1a5746ff,2024-06-06T14:05:21.078000,"""Why does my delivery status show delivered when I have missing items?""",true
+psychobunny,04ba3f79-8153-4971-8c09-3f5cbccd95c9,2024-06-06T14:05:06.463000,"""Why does my order status show as delivered when items are missing?""",true
+psychobunny,5fcb5689-6192-4a55-bca7-7f5322709e62,2024-06-06T14:03:55.503999,"""Can a stained polo shirt that was received be replaced?""",false
+psychobunny,259e0a8f-cd03-475f-8cf3-faf48bee5720,2024-06-06T14:03:50.948999,"""Has my order been shipped?""",false
+psychobunny,259e0a8f-cd03-475f-8cf3-faf48bee5720,2024-06-06T14:03:50.948999,"""I haven't received the shipping confirmation email; can you provide the shipping details?""",false
+psychobunny,259e0a8f-cd03-475f-8cf3-faf48bee5720,2024-06-06T14:03:50.948999,"""The FedEx tracking link is giving me an error message; what should I do?""",false
+psychobunny,259e0a8f-cd03-475f-8cf3-faf48bee5720,2024-06-06T14:03:50.948999,"""Can you confirm the whereabouts of my package since the tracking is not updating correctly?""",false
+psychobunny,2d995fe8-08d5-4332-a7b7-7a8089cc8b65,2024-06-06T14:01:14.644000,"""How can I find the current status of my order?""",true
+psychobunny,84633ab0-77f8-437f-9da3-c48a6446a0ca,2024-06-06T13:56:24.003999,"""What is the status of my order since I have not received the items and the tracking link provides no information?""",true
+psychobunny,feeed744-be4f-4541-969b-5ffeb64cbedc,2024-06-06T13:43:49.391999,"""Why has my charged purchase not been delivered yet?""",false
+psychobunny,f77b49b4-0da4-47af-b17a-5c48accbe1b8,2024-06-06T13:39:07.726000,"""Can my shipping address be updated to the correct one for my order?""",false
+psychobunny,7d5a13e2-a73a-481a-a00b-9e62bb78f023,2024-06-06T13:23:07.726999,"""Why haven't I received two items from my order when the other three items have already arrived?""",false
+psychobunny,1ad02df1-9aff-4f27-bcf7-480a0ee7befe,2024-06-06T13:14:26.351999,"""What is the status of the unfulfilled item in my order?""",false
+psychobunny,a363d936-95eb-4139-94ef-c12641ce3df0,2024-06-06T13:03:57.038000,"""Why has my order taken longer than the expected 3-5 business days for delivery?""",false
+psychobunny,98d676c9-b8e3-4646-a341-62274a9a9c1c,2024-06-06T13:02:46.828000,"""Why is there a message saying that the database cannot find my order number?""",true
+psychobunny,5ead4e22-40eb-40ca-ba96-cfbd8d8f28cc,2024-06-06T12:54:51.502000,"""Can you verify why the provided tracking number for my dispatched order is coming up as invalid?""",false
+psychobunny,5ead4e22-40eb-40ca-ba96-cfbd8d8f28cc,2024-06-06T12:54:51.502000,"""Why does the shipment tracking information say 'shipment cannot be found' for my recent order?""",false
+psychobunny,05dc13f1-7ee8-4050-a437-a9735bc2f6cb,2024-06-06T12:43:11.862999,"""When will my order with the replacement slides be confirmed and processed?""",false
+psychobunny,ac48be69-dd4c-4a37-b07b-c778169eee4b,2024-06-06T12:42:38.950999,"""Why was one of my ordered items missing upon delivery?""",false
+psychobunny,f9d5f35b-5eb4-4e6d-afd4-5bcfa465b122,2024-06-06T12:41:18.809999,"""How do I successfully initiate an exchange for a different size when the online process is giving an error?""",true
+psychobunny,94c0cb6d-1599-435c-befb-5466588a49cf,2024-06-06T12:24:48.790999,"""Why did I only receive five tee shirts when I paid for six?""",true
+psychobunny,71e1bfda-73ea-4a4b-8534-1776a55d1f79,2024-06-06T12:20:52.316999,"""Is my ordered item shipping?""",true
+psychobunny,82338373-f4db-49b7-8070-7efc3ddf4979,2024-06-06T12:13:04.903000,"""Why is my order appearing as lost and can you look into it?""",true
+psychobunny,5c73b392-8fb6-412b-a65c-9cbbe800167a,2024-06-06T12:00:56.579999,"""Why is there still a problem with the tracking number after 48 hours?""",false
+psychobunny,60ef30ca-4e0a-40bf-b6cd-f94a9d021c55,2024-06-06T11:53:35.029999,"""How do I proceed with an exchange if the item is marked as not suitable for return?""",false
+psychobunny,cfba4bbe-8e04-4b6c-bfff-083eb7c8a5db,2024-06-06T11:48:48.388000,"""How can I change a shirt I ordered because it's not the right size?""",true
+psychobunny,9770c96c-2e42-47ee-99b2-adeb5bb75b9e,2024-06-06T11:41:33.799999,"""Why can't I track my order?""",true
+psychobunny,ce9479b9-3c68-40aa-9de4-95d9994be99d,2024-06-06T11:35:32.778000,"""When will I receive the replacement for the shirt I returned?""",false
+psychobunny,50777bcd-1464-4fff-89a3-14829944ef12,2024-06-06T11:23:46.752000,"""Can you check the status of my shipped order which the tracking indicates has not been dispatched?""",false
+psychobunny,ba63f6e9-fd40-49c6-81bc-c8dfb7605a1a,2024-06-06T10:23:42.872999,"""Where can I find the tracking information for my order?""",true
+psychobunny,57b2375c-98b1-420b-bbba-1b51235bec5d,2024-06-06T10:21:44.832999,"""Can you contact FedEx regarding the delayed shipment of my order that appears to be stuck in Woodbridge Township, NJ?""",false
+psychobunny,2eef03b3-5bb5-490b-bed6-4b4f4eaf6132,2024-06-06T10:06:57.904000,"""Why hasn't my order of 4 shirts shipped on May 29 arrived yet?""",false
+psychobunny,562d0d26-d868-4fda-a19f-d424c87c3a3b,2024-06-06T09:06:59.167000,"""Where is my order that shows delivered but is not at my door?""",true
+psychobunny,562d0d26-d868-4fda-a19f-d424c87c3a3b,2024-06-06T09:06:59.167000,"""What steps should I take since my order status shows delivered but I haven't received it?""",true
+psychobunny,562d0d26-d868-4fda-a19f-d424c87c3a3b,2024-06-06T09:06:59.167000,"""How can I follow up if my package still hasn't arrived after waiting the advised three days?""",true
+psychobunny,b6b6de27-e57c-4bc6-8b2e-7f66b9a4860e,2024-06-06T09:03:09.845999,"""Why have I only received one polo shirt when I ordered two?""",false
+psychobunny,b6b6de27-e57c-4bc6-8b2e-7f66b9a4860e,2024-06-06T09:03:09.845999,"""What are the next steps since the second polo shirt has not arrived within the additional two-day waiting period?""",false
+psychobunny,6330ede9-358f-465c-919c-caf2e0ce4bec,2024-06-06T08:57:13.793999,"""Why have I not received my order despite it being marked as delivered?""",true
+psychobunny,6330ede9-358f-465c-919c-caf2e0ce4bec,2024-06-06T08:57:13.793999,"""What are the next steps to address a delivery issue where the package has not arrived?""",true
+psychobunny,6330ede9-358f-465c-919c-caf2e0ce4bec,2024-06-06T08:57:13.793999,"""How can I resolve an issue with an order that is marked as delivered but was not received?""",true
+psychobunny,1fcb175f-acda-48e8-919e-28a03d113a95,2024-06-06T08:30:24.056999,"""Why haven't I received my refund after 5 days of notification?""",true
+psychobunny,1cd9ab82-f530-40aa-a09a-16a315fe1a3c,2024-06-06T08:23:02.400000,"""Why hasn't my order placed on May 26 been dispatched yet?""",false
+psychobunny,d82d85b3-9d0d-4d67-904d-d7961180a33d,2024-06-06T08:08:40.260999,"""Can the 10% welcome discount be applied to an order after it has been confirmed?""",false
+psychobunny,6442a11f-06a7-438b-8515-cf99f785dde2,2024-06-06T08:02:23.642999,"""How can I fix a logo that has started to peel off from my product?""",true
+psychobunny,9913aea1-f21d-4155-8218-7d6dc25b981c,2024-06-06T07:25:25.861000,"""Why has my order that was marked as delivered not arrived at my mailbox?""",false
+psychobunny,d9a6f359-3473-4053-895b-8d183a7f7021,2024-06-06T06:55:16.006000,"""Can I get an update on the status of my order?""",true
+psychobunny,12410d84-aa0e-43ee-94b1-2f5663e13510,2024-06-06T06:30:47.556999,"""Why have I not received the two shirts that are marked as delivered?""",true
+psychobunny,703bfdd6-24e5-4ced-8ae0-97efdac089f0,2024-06-06T05:44:32.947999,"""Why haven't I received a response to my email about the defective shirt I purchased?""",true
+psychobunny,494ff6c4-7755-4ade-bb4b-70837a9d0fde,2024-06-06T05:40:34.276999,"""What are the next steps or options to rectify the missing and incorrect items received in my order?""",false
+psychobunny,116aedd7-b831-4118-a850-232f5406b1f2,2024-06-06T05:38:45.959000,"""Can my order be updated to a different size before it is shipped?""",false
+psychobunny,8ec215a6-a96d-4a75-9299-49a9b2de1351,2024-06-06T05:32:58.707000,"""Can you change the size of the shirts in my order before they are shipped?""",false
+psychobunny,e3454740-5121-40a6-927e-daa622d0ff18,2024-06-06T05:29:23.013000,"""Why hasn't my package arrived even though the tracking says it's been delivered?""",true
+psychobunny,e3454740-5121-40a6-927e-daa622d0ff18,2024-06-06T05:29:23.013000,"""Can you investigate the discrepancy in shipping time as it's now over the promised 3-5 days delivery period?""",true
+psychobunny,53ee0531-8bff-4278-b404-dc58ac497d50,2024-06-06T05:25:51.648999,"""Can a received polo shirt with a stain be replaced?""",true
+psychobunny,8f3af259-21ea-400d-81ea-c31df788a675,2024-06-06T05:19:21.681999,"""Where is my order?""",true
+psychobunny,c2f49dfa-ce20-4e3e-a046-4b423ca57c7e,2024-06-06T05:18:07.223000,"""Where is my order?""",true
+psychobunny,9a94953e-303a-464e-b94f-2402572819ab,2024-06-06T04:29:30.967999,"""Why did only the sweaters arrive and not the golf balls from my order?""",true
+psychobunny,e3387076-fde8-4999-9371-05283e60feae,2024-06-06T04:28:11.073999,"""Can you check the status of my order since there have been no tracking updates?""",false
+psychobunny,17b4b4ef-ddcf-4d8f-a2cf-107963c4c0d6,2024-06-06T04:18:20.094000,"""How can the issue with the bunny logo coming off the sweatpants after a few washes be resolved?""",false
+psychobunny,fc01e58e-658f-492c-9eb3-3c7d480ac970,2024-06-06T04:13:27.555999,"""How can I cancel and refund an order placed with the wrong payment method before it is shipped?""",false
+psychobunny,546cecc3-51e4-4edb-9955-26548d546708,2024-06-06T03:54:36.410000,"""Can you apply my welcome discount code to my recent order?""",false
+psychobunny,f45c917a-284e-4d8f-b6ea-8c9b7998279d,2024-06-06T03:25:16.890000,"""Why is my order taking so long to arrive?""",false
+psychobunny,90f2f8bd-79ff-4aad-880c-c986757df8b1,2024-06-06T03:21:46.357000,"""Why has my order been delayed twice and not arrived after a week?""",true
+psychobunny,35d543b0-f479-4838-bed2-5a8cb268a5ef,2024-06-06T03:14:43.707000,"""What should I do if my order arrived incomplete?""",true
+psychobunny,5dc87255-6247-4b5f-aa0c-62fbccd5a517,2024-06-06T03:00:46.026999,"""Why is my order number not recognized when trying to initiate a return?""",false
+psychobunny,abc7a773-af5d-4869-a906-2aa2654a016b,2024-06-06T03:00:39.003999,"""What should I do if I have not received all items from my order?""",false
+psychobunny,abc7a773-af5d-4869-a906-2aa2654a016b,2024-06-06T03:00:39.003999,"""How can I track an item that has been dispatched but not delivered?""",false
+psychobunny,abc7a773-af5d-4869-a906-2aa2654a016b,2024-06-06T03:00:39.003999,"""Can the missing items from my order be resent or refunded?""",false
+psychobunny,47acfdfa-e013-4b1b-939b-429fe1e7dd06,2024-06-06T03:00:36.161999,"""Why is my order number not being recognized when attempting to initiate a return?""",true
+psychobunny,1c057ab5-1ebd-49d6-8f68-7502bcb94ad3,2024-06-06T02:56:04.226999,"""Why haven't I received a response to my emails regarding my purchase?""",false
+psychobunny,1c057ab5-1ebd-49d6-8f68-7502bcb94ad3,2024-06-06T02:56:04.226999,"""What is the status of my order placed on May 23rd?""",false
+psychobunny,0d1ddacc-ce96-4270-b2db-9967c45e8ddf,2024-06-06T02:53:07.292999,"""Why is the provided tracking number not showing any record when I check it?""",true
+psychobunny,728b643c-b91a-4356-81e9-bd317c01329f,2024-06-06T02:51:52.526999,"""How can I return an order that did not fit as expected?""",true
+psychobunny,e3799499-d66a-41e4-a2b3-72b12e06b471,2024-06-06T02:47:08.282000,"""Did my swim trunks ship in a separate package?""",true
+psychobunny,381bcc51-440b-4479-8715-c6454b7ab0c5,2024-06-06T02:47:03.707000,"""Why haven't I received tracking information for my order placed 4 days ago?""",true
+psychobunny,02ee2836-f5f1-4487-bcbb-0a40fca1b4e4,2024-06-06T02:39:47.105000,"""Why has only one item from my order been delivered when I received multiple confirmation emails?""",false
+psychobunny,02ee2836-f5f1-4487-bcbb-0a40fca1b4e4,2024-06-06T02:39:47.105000,"""Can the remaining items from my order be delivered before a specific upcoming date due to my travel plans?""",false
+psychobunny,c33112b6-43df-4a10-8061-b599fb193a72,2024-06-06T02:33:45.536999,"""Why haven't my shirts arrived at the destination despite the tracking number indicating they have?""",false
+psychobunny,d94c7f83-4943-4409-9ea1-25819aaf137c,2024-06-06T02:15:05.838000,"""Why is there no tracking information available for my dispatched package?""",false
+psychobunny,d94c7f83-4943-4409-9ea1-25819aaf137c,2024-06-06T02:15:05.838000,"""Can you provide assistance with a package that has been dispatched but the tracking number is not recognized by the carrier?""",false
+psychobunny,d94c7f83-4943-4409-9ea1-25819aaf137c,2024-06-06T02:15:05.838000,"""What should I do if the tracking information remains unavailable for an extended period after dispatch?""",false
+psychobunny,d94c7f83-4943-4409-9ea1-25819aaf137c,2024-06-06T02:15:05.838000,"""How can customer service help when the carrier is unable to locate the package using the provided tracking number?""",false
+psychobunny,4e8addc2-842d-45ad-a1be-8ac3430e99f7,2024-06-06T02:11:00.323999,"""How do I proceed with a return for my order?""",true
+psychobunny,11211575-544b-48cd-befc-1e6908607c37,2024-06-06T02:05:53.865000,"""How can I confirm that the missing item from my order has been received?""",true
+psychobunny,7ce35ff4-ba20-460f-bb48-48acd03a3ff2,2024-06-06T01:38:39.128000,"""Why can't I process a return for these items that were not marked over 50% off?""",false
+psychobunny,7ce35ff4-ba20-460f-bb48-48acd03a3ff2,2024-06-06T01:38:39.128000,"""What can I do when the return portal does not allow me to select items for return?""",false
+psychobunny,67a0bc72-4902-49f3-a1c8-0122faadd1ec,2024-06-06T01:35:17.434000,"""Why were certain items not eligible for a return when they were not marked over 50% off?""",true
+psychobunny,35ead117-4a8e-4c12-9587-bdb29882d53a,2024-06-06T01:28:45.118999,"""How can I return items that are not eligible for return due to sizing issues?""",true
+psychobunny,f1b18c7b-8e8f-4c49-add5-057061995b89,2024-06-06T01:26:26.796000,"""How can I get a refund for an item from a partially delivered order?""",false
+psychobunny,582b4657-ece7-44f0-b1b2-f8eaa95c5172,2024-06-06T01:25:27.624000,"""Why is my order number not found when trying to exchange an item?""",false
+psychobunny,582b4657-ece7-44f0-b1b2-f8eaa95c5172,2024-06-06T01:25:27.624000,"""Why does the item not meet conditions for return when attempting to exchange it?""",false
+psychobunny,c2f25c43-7f41-43b7-8918-ce29c36dc344,2024-06-06T01:18:39.928999,"""Why haven't I received my order yet?""",true
+psychobunny,0433d281-cedc-45ce-9238-42da7a4489f6,2024-06-06T01:13:10.937000,"""Why have I not received a shipping notification for my order when my account states the order has been filled?""",true
+psychobunny,aad11cae-ad55-4129-a94c-8088b44fae36,2024-06-06T01:08:51.581000,"""Why can't I start a return for socks that do not fit?""",true
+psychobunny,b03f126e-f001-4f41-a274-56e296d22ae0,2024-06-06T01:02:30.305000,"""How can I exchange items for a different size when the return portal is not recognizing my order?""",true
+psychobunny,5648d50d-5437-4a05-b5b3-5b173afae53f,2024-06-06T00:52:47.513999,"""Why is there no record found when I try to track my dispatched order using the provided tracking number?""",false
+psychobunny,6b4ae459-e800-4f3b-99cd-1ead0409ef2c,2024-06-06T00:51:25.607000,"""What is the status of my return request?""",true
+psychobunny,56199183-b116-42e3-8d1a-35e6ee1e4205,2024-06-06T00:50:14.808000,"""What is the process for returning an item?""",true
+psychobunny,ddbe1646-64ad-4cba-b89d-8dbebf78aaaa,2024-06-06T00:43:02.678999,"""How will you address the missing items from my recent order delivery?""",true
+psychobunny,7f0d2a7d-f97e-448c-90ec-84aa6d9a421f,2024-06-06T00:41:56.562000,"""Why haven't I received my order yet?""",true
+psychobunny,5a9a8b8f-82f8-4de0-b045-fb830e1639ba,2024-06-06T00:31:25.415999,"""How can I return an order if I'm experiencing problems?""",true
+psychobunny,82a4425a-715a-4dab-9032-47927822785c,2024-06-06T00:22:31.901999,"""Why haven't I received my online order yet?""",false
+psychobunny,1a46e2cc-6a49-4a19-b358-6998a45f7da6,2024-06-06T00:18:41.864000,"""What is the current status of the items missing from my delivery?""",true
+psychobunny,90642d1b-8254-44c4-b121-b77322224c4c,2024-06-06T00:18:34.665999,"""What is the status of my incomplete order?""",true
+psychobunny,ff129b72-279f-40b3-8b93-88af574634b4,2024-06-06T00:14:45.950999,"""How can I return an item that was delivered in the wrong size and exchange it for the correct size?""",true
+psychobunny,673ab8ca-dd3b-4ddc-8870-596947e324b5,2024-06-06T00:14:24.592999,"""Why haven't all of my ordered items arrived yet?""",false
+psychobunny,3ad8dc1c-88c4-4ef5-b337-a7273d748dda,2024-06-06T00:11:24.197999,"""Why have I only received 2 out of 5 t-shirts from my order?""",true
+psychobunny,3ad8dc1c-88c4-4ef5-b337-a7273d748dda,2024-06-06T00:11:24.197999,"""What is happening with the shipment of the remaining 3 t-shirts since the tracking link is not working?""",true
+psychobunny,a96ccfb1-acb1-44cc-865b-66368a49465b,2024-06-06T00:09:24.270999,"""Why did I receive a shirt in the wrong size?""",true
+psychobunny,fd3788f4-c45c-417f-9350-7bf2822cef05,2024-06-06T00:01:44.351999,"""When will my item be shipped?""",false
+psychobunny,fd3788f4-c45c-417f-9350-7bf2822cef05,2024-06-06T00:01:44.351999,"""Will my product arrive before my trip date?""",false
+psychobunny,e134f4be-e887-42c7-9ef7-042e57ff1e7e,2024-06-05T23:58:12.230000,"""Can I change the size of the jacket in my order to XXL?""",true
+psychobunny,5b4b1888-1730-43ce-b931-6e7f0297e95f,2024-06-05T23:55:33.778000,"""When I try to track my order, why does it say the order doesn’t exist?""",true
+psychobunny,5b4b1888-1730-43ce-b931-6e7f0297e95f,2024-06-05T23:55:33.778000,"""Is my order lost?""",true
+psychobunny,6e94ca8d-b0dc-4f3a-924c-a8c5c81f2179,2024-06-05T23:55:33.362999,"""Why did I only receive one item when I ordered three?""",true
+psychobunny,59a765a8-43aa-41d1-83b7-21202dda9a88,2024-06-05T23:50:49.292000,"""Why did I only receive 2 out of the 3 t-shirts I ordered when all are marked as delivered?""",true
+psychobunny,7a12faf4-12c4-47be-9460-e91ebce4b417,2024-06-05T23:44:17.832000,"""Can you apply a discount code retroactively to my order or provide a credit back?""",false
+psychobunny,84518266-4f37-4323-be7f-f69d0daea491,2024-06-05T23:43:43.273000,"""Why have I not received my ordered shirt despite it being marked as delivered?""",false
+psychobunny,84518266-4f37-4323-be7f-f69d0daea491,2024-06-05T23:43:43.273000,"""What steps should I take if I've already checked everywhere and still can't find my delivered package?""",false
+psychobunny,84518266-4f37-4323-be7f-f69d0daea491,2024-06-05T23:43:43.273000,"""How can we proceed if the item is confirmed as delivered by the carrier, but is not received?""",false
+psychobunny,c8767be6-b515-4c1c-93f2-ee3f5dc29585,2024-06-05T23:43:41.042000,"""Has there been any update on the status of my order that was supposed to arrive this week?""",false
+psychobunny,119f1f9f-725b-4802-b5ce-45c2203523ad,2024-06-05T23:41:25.355000,"""Why did I receive only one t-shirt when I ordered two?""",true
+psychobunny,8346042f-f377-4546-9686-7ee840fe0ff9,2024-06-05T23:39:34.099999,"""Can I get clarification on the size of the product that I received?""",true
+psychobunny,6f3569c9-02e3-4f95-a8b4-925e34b9bed8,2024-06-05T23:36:40.263000,"""Can you update me on the shipment status of my order, and if it hasn't shipped, proceed with the cancellation?""",false
+psychobunny,ff7086a6-c05c-4109-9794-9ac80ce7b724,2024-06-05T23:33:02.407999,"""Can you update me on the current shipment status of my order?""",true
+psychobunny,ff7086a6-c05c-4109-9794-9ac80ce7b724,2024-06-05T23:33:02.407999,"""If my order is not going to be shipped soon, can I cancel it?""",true
+psychobunny,76946ab3-8465-4723-bed1-81cc67845ccb,2024-06-05T23:25:45.839999,"""Can you please change the size of the item in my order from 2t to 10/12?""",false
+psychobunny,3001ddc0-f0ee-41ef-8d4d-abd96bcf8243,2024-06-05T23:24:17.194000,"""Why was my shirt not delivered as previously stated in emails?""",true
+psychobunny,53913701-4bc5-4aad-85dc-cb57d135e487,2024-06-05T23:18:55.078000,"""What should I do if my package doesn't arrive within the expected time frame?""",true
+psychobunny,53913701-4bc5-4aad-85dc-cb57d135e487,2024-06-05T23:18:55.078000,"""What steps should I take if I am still unable to track my package after the additional waiting period?""",true
+psychobunny,00bac947-6382-4ec8-8a02-bdf2ab33a7ac,2024-06-05T23:10:11.971999,"""Why haven't I received my package?""",true
+psychobunny,e125c3a8-f8b5-4415-8dc4-37a335f02e78,2024-06-05T23:09:03.066999,"""Why am I unable to track my package with the provided tracking link?""",true
+psychobunny,63f60890-26ae-4582-a65f-8206f51b3154,2024-06-05T23:08:23.956000,"""Why hasn't my order arrived despite paying for 2-day shipping?""",false
+psychobunny,c1773918-0aa3-44a0-b5e8-fb25629c860a,2024-06-05T23:07:38.568000,"""How do I initiate a refund for one product and exchange another for a different size?""",true
+psychobunny,8853465c-3421-4adb-86f5-459fa38cc17a,2024-06-05T23:05:17.279000,"""Can the store participate in the HSBC **Birthday** campaign by providing a special promotion for cardholders?""",false
+psychobunny,392d0550-15cf-42eb-9b9f-d70addb6d5b1,2024-06-05T23:01:23.747999,"""Can I exchange shirts if they are too big but still have the tags on?""",true
+psychobunny,1ebb3aa6-4038-49cb-bedd-f8fcb2800991,2024-06-05T22:58:38.752000,"""Why is my order showing as delivered when I haven't received it?""",false
+psychobunny,34db21df-13e3-4697-b1e2-39f37fa3c0b3,2024-06-05T22:53:56.430000,"""Can I cancel an order that was accidentally completed before I was finished?""",false
+psychobunny,9e338210-cf28-4187-bf0c-ba776bfead90,2024-06-05T22:51:55.398000,"""Can I change the sizes in my order to 2 of Size L and 1 of size XXL?""",true
+psychobunny,8db2fc5e-edd8-4910-a814-bb0cdf56ae3e,2024-06-05T22:28:04.328999,"""What can be done if my order is marked as delivered but I haven't received it?""",false
+psychobunny,2a4ec1a0-818b-441f-a11b-5ee33f9f68db,2024-06-05T22:26:58.665999,"""When will my order be arriving?""",true
+psychobunny,fff9d39e-b428-4d01-8f78-8707b16fc629,2024-06-05T22:21:45.114000,"""What is the status of my missing item from my order?""",true
+psychobunny,a45c49bc-47ea-4fca-b5ad-355c2b90192a,2024-06-05T22:07:02.609999,"""Can I get a refund for my undelivered order since I've already purchased the same items locally?""",false
+psychobunny,6b6fddc6-73ca-40fb-9972-5b8bb0f2704d,2024-06-05T22:03:47.881999,"""¿Dónde está mi pedido?""",false
+psychobunny,64a4f27d-c2bf-44e0-8be3-1f987c2b46fb,2024-06-05T22:02:10.779999,"""Can you process a 15% discount on my recent order after a previous discount code was deemed already used?""",false
+psychobunny,acb16b6a-953b-4903-b2dd-4c630b4448fd,2024-06-05T22:01:10.292000,"""¿Cuándo llegará mi paquete ya que no puedo rastrearlo con FedEx?""",true
+psychobunny,3877add6-d6cb-4cce-ac63-142511b1ad25,2024-06-05T21:55:25.046999,"""Why is the shipment tracking for my order showing as invalid, and can I get updated shipment information?""",true
+psychobunny,a7f8dd27-9463-4ad3-ac67-4af29ea2d0fa,2024-06-05T21:55:13.431999,"""Why have I not received the black bathing suit from my order?""",true
+psychobunny,490e1ed0-46f8-4528-9fa5-3c2a7276f4b2,2024-06-05T21:42:27.130000,"""How do I return an order if I don't have a QR code or a shipping address?""",true
+psychobunny,b2a73711-c57b-496a-90ea-7aae94d33574,2024-06-05T21:29:15.020999,"""How do I resolve a tracking error for items not received when the packing slip has been discarded?""",false
+psychobunny,b2a73711-c57b-496a-90ea-7aae94d33574,2024-06-05T21:29:15.020999,"""What should I do if part of my online order hasn't arrived and the given tracking number is showing as not found?""",false
+psychobunny,42aa1266-95f5-498d-88c0-9a2c8630d583,2024-06-05T21:07:57.763000,"""My package delivery status is showing as delivered, but I haven't received it. What should I do?""",true
+psychobunny,4dc18b5b-5ab1-4bf2-b423-bbea7b4a480d,2024-06-05T21:07:33.973999,"""What is the status of my delivery that was supposed to arrive by UPS on May 31?""",false
+psychobunny,2fb073c3-39cd-4d20-897f-12fbb46111db,2024-06-05T21:03:06.947000,"""Can you provide any updates on the status of order #3128356 (GE5700142824US)?""",true
+psychobunny,2fb073c3-39cd-4d20-897f-12fbb46111db,2024-06-05T21:03:06.947000,"""Was the shipment for order #3128356 delivered to the hub as an overpack or a loose box?""",true
+psychobunny,2fb073c3-39cd-4d20-897f-12fbb46111db,2024-06-05T21:03:06.947000,"""Has order #3128356 arrived at the JFK hub and been processed?""",true
+psychobunny,169eeea2-0818-4770-9049-ffa54125c42a,2024-06-05T21:01:41.572000,"""Can I change the delivery address for my order?""",false
+psychobunny,2efa7aba-1380-4055-ad8c-124c2606278a,2024-06-05T21:00:33.378000,"""What is the status of my missing packages?""",false
+psychobunny,2efa7aba-1380-4055-ad8c-124c2606278a,2024-06-05T21:00:33.378000,"""Can I get a refund for the items not delivered?""",false
+psychobunny,2efa7aba-1380-4055-ad8c-124c2606278a,2024-06-05T21:00:33.378000,"""Will large orders always have delivery issues?""",false
+psychobunny,2efa7aba-1380-4055-ad8c-124c2606278a,2024-06-05T21:00:33.378000,"""How can I receive the golf ball promotion?""",false
+psychobunny,b017d432-4483-41bc-809e-e50c40dc9e31,2024-06-05T20:59:14.947000,"""What should I do if I'm missing items from my order?""",false
+psychobunny,3acebcc7-04a3-401e-9a82-e237ff1123e4,2024-06-05T20:57:02.700999,"""Did I receive my order?""",true
+psychobunny,6b4e4d95-5086-4720-baf7-2dcb0b7d6de0,2024-06-05T20:56:09.612999,"""What steps should I take if the items I received are incorrect or incomplete?""",true
+psychobunny,f62b8a8b-a805-4994-a87e-693d82c3ba08,2024-06-05T20:43:22.023000,"""Why haven't I received my order yet?""",true
+psychobunny,9a1e50a8-e524-4957-8f63-6eca5c2743c6,2024-06-05T20:41:19.924000,"""Why did I receive only two polos from my order?""",true
+psychobunny,a8f6b5c6-8523-4c01-8b53-9f7acb96ea2c,2024-06-05T20:37:43.039999,"""How do I return items if the return portal does not recognize my order with my email?""",false
